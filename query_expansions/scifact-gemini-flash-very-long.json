@@ -1,0 +1,1202 @@
+[
+  {
+    "qid": "1",
+    "additional_info": "0D biomaterials, inductive properties, scaffold, cell differentiation, tissue engineering, bioactivity, morphogenesis, self-assembly, dimensionality effect, biomimetic materials, nanoscale biomaterials, 3D vs 0D biomaterials,  signal transduction, extracellular matrix mimicry"
+  },
+  {
+    "qid": "3",
+    "additional_info": "1000 Genomes Project, rare variants, penetrance, common variants, genetic variation, genome-wide association study (GWAS),  polygenic risk scores,  single nucleotide polymorphisms (SNPs), copy number variations (CNVs),  indels,  effect size,  population genetics,  disease susceptibility,  complex traits"
+  },
+  {
+    "qid": "5",
+    "additional_info": "UK prevalence, abnormal PrP, prion disease, Creutzfeldt-Jakob disease (CJD), variant Creutzfeldt-Jakob disease (vCJD),  bovine spongiform encephalopathy (BSE),  diagnostic testing,  screening,  epidemiology,  population studies,  prion protein,  cerebrospinal fluid (CSF)"
+  },
+  {
+    "qid": "13",
+    "additional_info": "perinatal mortality, low birth weight, infant mortality,  neonatal mortality,  preterm birth,  birth weight percentiles,  risk factors,  prevalence,  incidence,  public health,  obstetrics,  perinatal care"
+  },
+  {
+    "qid": "36",
+    "additional_info": "vitamin B12 deficiency, homocysteine levels,  hyperhomocysteinemia,  methylcobalamin,  cobalamin,  metabolic pathways,  folate,  methylation,  cardiovascular disease,  neurological disorders"
+  },
+  {
+    "qid": "42",
+    "additional_info": "microerythrocytes, alpha-thalassemia,  homozygous alpha-thalassemia,  anemia,  severe anemia,  red blood cell morphology,  hematology,  blood count,  erythropoiesis,  hemoglobin,  thalassemia intermedia"
+  },
+  {
+    "qid": "48",
+    "additional_info": "vCJD carriers, UK prevalence, asymptomatic infection,  prion disease,  Creutzfeldt-Jakob disease (CJD),  bovine spongiform encephalopathy (BSE),  blood donation,  screening,  epidemiological surveillance,  incidence, prevalence"
+  },
+  {
+    "qid": "49",
+    "additional_info": "ADAR1, Dicer, pre-miRNA processing,  RNA editing,  microRNA biogenesis,  RNA interference,  protein-protein interaction,  enzyme activity,  RNA structure,  post-transcriptional regulation"
+  },
+  {
+    "qid": "50",
+    "additional_info": "AIRE, skin tumors,  autoimmune regulator,  cutaneous neoplasms,  skin cancer,  gene expression,  immunohistochemistry,  molecular biology,  cancer genetics,  tumor immunology"
+  },
+  {
+    "qid": "51",
+    "additional_info": "ALDH1, breast cancer,  prognosis,  survival,  gene expression,  biomarkers,  cancer stem cells,  chemotherapy resistance,  immunotherapy,  tumor microenvironment"
+  },
+  {
+    "qid": "53",
+    "additional_info": "ALDH1, breast cancer, poor prognosis,  survival,  gene expression,  biomarkers,  cancer stem cells,  chemotherapy resistance,  immunotherapy,  tumor microenvironment"
+  },
+  {
+    "qid": "54",
+    "additional_info": "AMPK, inflammation, pulmonary fibrosis,  lung disease,  fibrogenesis,  signal transduction,  kinase activity,  inflammation markers,  cytokines,  chemokines"
+  },
+  {
+    "qid": "56",
+    "additional_info": "APOE4, iPSC-derived neurons,  alpha-synuclein,  tau phosphorylation,  GABA neuron degeneration,  Alzheimer's disease,  neurodegeneration,  induced pluripotent stem cells,  disease modeling,  neurobiology"
+  },
+  {
+    "qid": "57",
+    "additional_info": "APOE4, iPSC-derived neurons, alpha-synuclein, tau phosphorylation, GABA neuron degeneration, Alzheimer's disease, neurodegeneration, induced pluripotent stem cells, disease modeling, neurobiology"
+  },
+  {
+    "qid": "70",
+    "additional_info": "PPM1D, p53,  tumor suppressor,  protein phosphatase,  signal transduction,  cancer,  cell cycle regulation,  apoptosis,  gene expression,  oncogene"
+  },
+  {
+    "qid": "72",
+    "additional_info": "activator-inhibitor pairs, Admp, chordin, dorsal patterning,  embryonic development,  morphogen gradients,  signal transduction,  developmental biology,  gene regulation,  vertebrate development"
+  },
+  {
+    "qid": "75",
+    "additional_info": "H. pylori urease, polymeric structure, UreA, UreB,  enzyme structure,  bacterial enzyme,  protein subunits,  crystallography,  biochemistry,  molecular biology"
+  },
+  {
+    "qid": "94",
+    "additional_info": "albendazole, lymphatic filariasis,  antiparasitic drug,  nematode infection,  drug treatment,  pharmacology,  parasitology,  tropical medicine,  public health"
+  },
+  {
+    "qid": "99",
+    "additional_info": "alizarin, PGAM1,  hydrogen bonds,  substrate binding,  protein-ligand interaction,  enzyme kinetics,  crystallography,  biochemistry,  molecular modeling"
+  },
+  {
+    "qid": "100",
+    "additional_info": "hematopoietic stem cells, chromosome segregation,  random segregation,  mitosis,  meiosis,  cell division,  cell biology,  genetics,  chromatin,  epigenetics"
+  },
+  {
+    "qid": "113",
+    "additional_info": "ACE inhibitors, renal insufficiency,  kidney disease,  hypertension,  cardiovascular disease,  drug side effects,  pharmacology,  nephrology,  clinical trials,  patient safety"
+  },
+  {
+    "qid": "115",
+    "additional_info": "anthrax spores, disposal,  bioterrorism,  environmental safety,  decontamination,  spore inactivation,  risk assessment,  public health,  environmental microbiology"
+  },
+  {
+    "qid": "118",
+    "additional_info": "antibiotics, gut microbiome, Clostridium difficile,  antibiotic resistance,  dysbiosis,  infectious disease,  microbiology,  immunology,  pharmacology,  gut health"
+  },
+  {
+    "qid": "124",
+    "additional_info": "antiretroviral therapy (ART), tuberculosis,  CD4 count,  HIV infection,  co-infection,  drug efficacy,  public health,  global health,  epidemiology,  immunology"
+  },
+  {
+    "qid": "127",
+    "additional_info": "p150n, Arginine 90, EB1, protein-protein interaction,  microtubule dynamics,  cell division,  cell biology,  molecular biology,  protein structure,  binding site"
+  },
+  {
+    "qid": "128",
+    "additional_info": "arterioles, venules, lumen diameter,  microcirculation,  blood vessels,  anatomy,  physiology,  hemodynamics,  vascular biology,  blood flow"
+  },
+  {
+    "qid": "129",
+    "additional_info": "open access, citation rates,  journal impact factor,  scientific publishing,  scholarly communication,  bibliometrics,  research evaluation,  information science"
+  },
+  {
+    "qid": "130",
+    "additional_info": "open access, citation rates,  journal impact factor,  scientific publishing,  scholarly communication,  bibliometrics,  research evaluation,  information science"
+  },
+  {
+    "qid": "132",
+    "additional_info": "aspirin, PGE2,  cyclooxygenase,  inflammation,  pain,  drug mechanism,  pharmacology,  biochemistry,  prostaglandins,  platelet aggregation"
+  },
+  {
+    "qid": "133",
+    "additional_info": "invadopodia, phosphatidylinositol-3,4-biphosphate, Src,  cell invasion,  cancer metastasis,  signal transduction,  kinase activity,  cell biology,  molecular biology"
+  },
+  {
+    "qid": "137",
+    "additional_info": "asymptomatic visual impairment, elderly, screening, vision improvement,  public health,  ophthalmology,  geriatrics,  cost-effectiveness,  quality of life"
+  },
+  {
+    "qid": "141",
+    "additional_info": "auditory entrainment, visual information,  sensory integration,  brain plasticity,  neuroscience,  cognitive psychology,  perception,  attention,  multisensory processing"
+  },
+  {
+    "qid": "142",
+    "additional_info": "mesenchymal stem cells, autologous transplantation, opportunistic infections, anti-interleukin-2 receptor antibodies,  immunosuppression,  cell therapy,  regenerative medicine,  clinical trials,  transplant rejection"
+  },
+  {
+    "qid": "143",
+    "additional_info": "mesenchymal stem cells, autologous transplantation, opportunistic infections, anti-interleukin-2 receptor antibodies, immunosuppression, cell therapy, regenerative medicine, clinical trials, transplant rejection"
+  },
+  {
+    "qid": "146",
+    "additional_info": "mesenchymal stem cells, autologous transplantation, transplant rejection, anti-interleukin-2 receptor antibodies, immunosuppression, cell therapy, regenerative medicine, clinical trials,  transplant immunology"
+  },
+  {
+    "qid": "148",
+    "additional_info": "autophagy, aging,  cellular senescence,  lysosomes,  protein degradation,  age-related diseases,  gerontology,  cell biology,  molecular biology,  longevity"
+  },
+  {
+    "qid": "163",
+    "additional_info": "bariatric surgery, mental health,  weight loss surgery,  obesity,  depression,  anxiety,  quality of life,  psychological outcomes,  surgical intervention,  clinical studies"
+  },
+  {
+    "qid": "171",
+    "additional_info": "basophils, systemic lupus erythematosus (SLE),  autoimmune disease,  inflammation,  immune response,  cell function,  immunology,  rheumatology,  disease pathogenesis,  therapeutic targets"
+  },
+  {
+    "qid": "179",
+    "additional_info": "birth weight, breast cancer,  risk factors,  epidemiology,  obstetrics,  oncology,  growth factors,  hormonal influences,  developmental origins of health and disease"
+  },
+  {
+    "qid": "180",
+    "additional_info": "TDP-43, respiratory complex I, ND3, ND6, neuronal loss,  neurodegeneration,  protein-protein interaction,  mitochondria,  oxidative stress,  amyotrophic lateral sclerosis (ALS),  frontotemporal dementia (FTD)"
+  },
+  {
+    "qid": "183",
+    "additional_info": "bone marrow cells, adult macrophages,  hematopoiesis,  immune cells,  cell differentiation,  tissue regeneration,  immunology,  cell biology,  molecular biology,  stem cells"
+  },
+  {
+    "qid": "185",
+    "additional_info": "breast cancer, genetic factors,  environmental factors,  epigenetics,  risk factors,  family history,  oncology,  cancer genetics,  cancer epidemiology,  lifestyle factors"
+  },
+  {
+    "qid": "198",
+    "additional_info": "CCL19, dLNs,  chemokine,  lymph nodes,  immune cells,  lymphocyte trafficking,  immunology,  cancer metastasis,  inflammation,  cell migration"
+  },
+  {
+    "qid": "208",
+    "additional_info": "CHEK2, breast cancer,  gene mutation,  risk assessment,  genetic testing,  oncology,  cancer genetics,  genome-wide association studies,  polymorphism,  breast cancer susceptibility"
+  },
+  {
+    "qid": "212",
+    "additional_info": "CR, methylation age,  chronological age,  epigenetic aging,  telomere length,  biological age,  aging biomarkers,  gerontology,  epigenetics,  DNA methylation"
+  },
+  {
+    "qid": "213",
+    "additional_info": "CRP, postoperative mortality, coronary artery bypass graft (CABG),  inflammation,  prognosis,  risk prediction,  cardiac surgery,  surgical outcomes,  biomarkers,  postoperative complications"
+  },
+  {
+    "qid": "216",
+    "additional_info": "CX3CR1, Th2 cells, T cell survival,  immune response,  cell signaling,  inflammation,  allergic reactions,  asthma,  immunology,  cell migration"
+  },
+  {
+    "qid": "217",
+    "additional_info": "CX3CR1, Th2 cells, T cell survival, immune response, cell signaling, inflammation, allergic reactions, asthma, immunology, cell migration"
+  },
+  {
+    "qid": "218",
+    "additional_info": "CX3CR1, Th2 cells, airway inflammation,  asthma,  allergic reactions,  immune response,  cell signaling,  inflammation,  immunology,  respiratory disease"
+  },
+  {
+    "qid": "219",
+    "additional_info": "CX3CR1, Th2 cells, airway inflammation, asthma, allergic reactions, immune response, cell signaling, inflammation, immunology, respiratory disease"
+  },
+  {
+    "qid": "230",
+    "additional_info": "alcohol aldehyde dehydrogenase deficiency,  alcohol consumption,  genetic variation,  enzyme activity,  alcohol metabolism,  genetics,  population studies,  public health,  alcoholism"
+  },
+  {
+    "qid": "232",
+    "additional_info": "cataract, trachoma, blindness, Southern Sudan,  eye disease,  public health,  global health,  preventive medicine,  ophthalmology,  tropical medicine"
+  },
+  {
+    "qid": "233",
+    "additional_info": "cell autonomous sex determination, somatic cells, Galliformes,  sex differentiation,  developmental biology,  genetics,  molecular biology,  avian biology,  sex chromosomes"
+  },
+  {
+    "qid": "236",
+    "additional_info": "cell autonomous sex determination, somatic cells, Passeriformes, sex differentiation, developmental biology, genetics, molecular biology, avian biology, sex chromosomes"
+  },
+  {
+    "qid": "237",
+    "additional_info": "clpC, Bacillus subtilis, sporulation,  gene function,  bacterial genetics,  molecular biology,  cell cycle,  protein degradation,  developmental biology"
+  },
+  {
+    "qid": "238",
+    "additional_info": "methionine restriction, microRNAs,  gene regulation,  cellular metabolism,  aging,  longevity,  cell signaling,  nutritional science,  molecular biology"
+  },
+  {
+    "qid": "239",
+    "additional_info": "cellular aging, appearance,  skin aging,  telomere length,  DNA damage,  epigenetics,  aging biomarkers,  gerontology,  cosmetics,  dermatology"
+  },
+  {
+    "qid": "248",
+    "additional_info": "chenodeoxycholic acid, energy expenditure,  bile acid,  metabolism,  weight loss,  obesity,  pharmacology,  clinical trials,  thermogenesis,  brown adipose tissue"
+  },
+  {
+    "qid": "249",
+    "additional_info": "chenodeoxycholic acid, energy expenditure, bile acid, metabolism, weight loss, obesity, pharmacology, clinical trials, thermogenesis, brown adipose tissue"
+  },
+  {
+    "qid": "261",
+    "additional_info": "aerobic exercise, endothelial function, vasodilation, nitric oxide (NO),  cardiovascular health,  exercise physiology,  vascular biology,  endothelium-dependent vasodilation,  blood flow,  exercise training"
+  },
+  {
+    "qid": "268",
+    "additional_info": "cold exposure, BAT recruitment,  brown adipose tissue,  thermogenesis,  energy expenditure,  adaptive thermogenesis,  cold acclimation,  metabolism,  adipose tissue,  body temperature regulation"
+  },
+  {
+    "qid": "269",
+    "additional_info": "cold exposure, BAT recruitment, brown adipose tissue, thermogenesis, energy expenditure, adaptive thermogenesis, cold acclimation, metabolism, adipose tissue, body temperature regulation"
+  },
+  {
+    "qid": "274",
+    "additional_info": "nicotine replacement therapy (NRT), varenicline, bupropion, smoking cessation,  long-term abstinence,  combination therapy,  pharmacology,  clinical trials,  tobacco addiction,  public health"
+  },
+  {
+    "qid": "275",
+    "additional_info": "phosphatidylinositol 3-kinase inhibitor, MEK 1/2 inhibitor, KRAS mutant tumors,  cancer therapy,  targeted therapy,  drug combination,  oncology,  signal transduction,  molecular targeted therapy"
+  },
+  {
+    "qid": "279",
+    "additional_info": "Commelina yellow mottle virus (ComYMV), genome size,  viral genome,  molecular biology,  virology,  plant viruses,  genome sequencing,  genetic analysis,  viral replication"
+  },
+  {
+    "qid": "294",
+    "additional_info": "crossover hot spots, gene promoters, Saccharomyces cerevisiae,  recombination,  genome structure,  yeast genetics,  molecular biology,  DNA replication,  genetic mapping"
+  },
+  {
+    "qid": "295",
+    "additional_info": "dendritic cells (DCs), innate lymphoid cells (ILCs), intestinal homeostasis,  immune regulation,  gut immunity,  immunology,  cell signaling,  inflammation,  intestinal microbiota"
+  },
+  {
+    "qid": "298",
+    "additional_info": "cytochrome c, mitochondria, apoptosis,  mitochondrial intermembrane space,  programmed cell death,  cell signaling,  caspases,  apoptosome,  cell biology,  molecular biology"
+  },
+  {
+    "qid": "300",
+    "additional_info": "cytosolic proteins, iron-responsive elements (IREs), DMT1, iron uptake,  iron metabolism,  RNA binding proteins,  post-transcriptional regulation,  gene expression,  molecular biology"
+  },
+  {
+    "qid": "303",
+    "additional_info": "DMRT1, sex-determining gene, epigenetic regulation, MHM region,  sex differentiation,  gene expression,  epigenetics,  developmental biology,  molecular biology,  gene regulation"
+  },
+  {
+    "qid": "312",
+    "additional_info": "de novo assembly, sequence data, contigs,  genome assembly,  bioinformatics,  next-generation sequencing,  genome analysis,  sequence alignment,  computational biology"
+  },
+  {
+    "qid": "314",
+    "additional_info": "cytidine deamination, uridine, viral DNA, G-to-A mutations,  viral mutagenesis,  antiviral strategies,  viral evolution,  molecular virology,  viral replication"
+  },
+  {
+    "qid": "324",
+    "additional_info": "Raptor, G-CSF levels,  mTORC1,  signal transduction,  granulopoiesis,  hematopoiesis,  cell signaling,  molecular biology,  gene regulation,  cancer"
+  },
+  {
+    "qid": "327",
+    "additional_info": "αvβ8 integrin, inflammatory phenotype,  integrin signaling,  inflammation,  immune response,  cell adhesion,  molecular biology,  cell biology,  tissue homeostasis,  angiogenesis"
+  },
+  {
+    "qid": "338",
+    "additional_info": "dexamethasone, postoperative bleeding,  anti-inflammatory drug,  surgical complications,  drug efficacy,  pharmacology,  clinical trials,  postoperative care,  hemostasis"
+  },
+  {
+    "qid": "343",
+    "additional_info": "diabetes, acute coronary syndrome, bleeding events,  cardiovascular disease,  thrombosis,  risk factors,  clinical studies,  epidemiology,  patient safety,  anticoagulation"
+  },
+  {
+    "qid": "350",
+    "additional_info": "initiator tRNA, elongation tRNA, IF3,  translation initiation,  protein synthesis,  ribosomes,  translation factors,  molecular biology,  cell biology,  bacterial genetics"
+  },
+  {
+    "qid": "354",
+    "additional_info": "Scribble, cell transformation, mammary tumorigenesis,  cell polarity,  tumor suppressor,  cancer,  gene expression,  molecular biology,  cell biology,  cancer genetics"
+  },
+  {
+    "qid": "362",
+    "additional_info": "activated B cells, paracortical areas, oxysterol, stromal cells,  immune response,  lymph node,  lymphocyte migration,  cholesterol metabolism,  immunology,  cell biology"
+  },
+  {
+    "qid": "380",
+    "additional_info": "inflammatory chemokines, viral control, lung,  immune response,  viral infection,  cytokines,  chemokines,  inflammation,  immunology,  respiratory viruses"
+  },
+  {
+    "qid": "384",
+    "additional_info": "noncommunicable diseases, low economic settings,  disease burden,  global health,  health disparities,  public health,  epidemiology,  socioeconomic factors,  health equity"
+  },
+  {
+    "qid": "385",
+    "additional_info": "epigenetic modulating agents (EMAs), antitumor immune response,  cancer therapy,  immunotherapy,  epigenetics,  cancer immunology,  gene expression,  drug development,  molecular biology"
+  },
+  {
+    "qid": "386",
+    "additional_info": "peripheral IV drug administration, errors, bolus administration, multiple-step medicine preparations,  medication errors,  patient safety,  healthcare quality,  pharmacology,  clinical practice"
+  },
+  {
+    "qid": "388",
+    "additional_info": "ethanol stress, IBP expression, bacteria,  stress response,  gene regulation,  bacterial physiology,  molecular biology,  microbiology,  alcohol effects"
+  },
+  {
+    "qid": "399",
+    "additional_info": "fine particulate air pollution, anxiety prevalence,  air quality,  mental health,  environmental health,  epidemiology,  public health,  air pollution effects,  respiratory health"
+  },
+  {
+    "qid": "410",
+    "additional_info": "febrile seizures, epilepsy,  seizure disorders,  childhood epilepsy,  risk factors,  neurology,  pediatrics,  epileptogenesis,  brain development"
+  },
+  {
+    "qid": "411",
+    "additional_info": "febrile seizures, epilepsy, seizure disorders, childhood epilepsy, risk factors, neurology, pediatrics, epileptogenesis, brain development"
+  },
+  {
+    "qid": "415",
+    "additional_info": "APOE4 allele, female carriers, dementia risk,  Alzheimer's disease,  genetic risk factors,  neurodegeneration,  genetics,  epidemiology,  public health,  geriatrics"
+  },
+  {
+    "qid": "421",
+    "additional_info": "flexible molecules, rigid molecules, steric hindrance, tumor microenvironment,  drug delivery,  nanomedicine,  pharmacokinetics,  molecular design,  cancer therapy,  drug targeting"
+  },
+  {
+    "qid": "431",
+    "additional_info": "FoxO3a, neuronal death, reactive oxygen species (ROS),  oxidative stress,  cell signaling,  apoptosis,  neurodegeneration,  molecular biology,  cell biology,  neurobiology"
+  },
+  {
+    "qid": "436",
+    "additional_info": "free histones, Rad53, DNA replication,  histone degradation,  DNA repair,  cell cycle,  cell biology,  molecular biology,  protein degradation,  DNA damage response"
+  },
+  {
+    "qid": "437",
+    "additional_info": "Myelodysplastic syndrome (MDS), genomic alterations, animal model,  functional consequences,  hematologic malignancy,  cancer biology,  disease modeling,  genetic mutations,  preclinical research"
+  },
+  {
+    "qid": "439",
+    "additional_info": "Fz/PCP, Pk, anterior membrane, neuroectoderm cells, zebrafish neuralation,  cell polarity,  planar cell polarity (PCP),  developmental biology,  cell signaling,  morphogenesis"
+  },
+  {
+    "qid": "440",
+    "additional_info": "Fz/PCP, Pk, anterior membrane, notochord cells, zebrafish neuralation, cell polarity, planar cell polarity (PCP), developmental biology, cell signaling, morphogenesis"
+  },
+  {
+    "qid": "443",
+    "additional_info": "GATA-3, hematopoietic stem cells (HSCs),  gene function,  hematopoiesis,  transcription factor,  cell differentiation,  molecular biology,  cell biology,  blood development,  stem cell biology"
+  },
+  {
+    "qid": "452",
+    "additional_info": "gene expression, genetically identical cells,  cell-to-cell variability,  noise,  stochasticity,  gene regulation,  molecular biology,  cell biology,  single-cell analysis,  transcriptomics"
+  },
+  {
+    "qid": "475",
+    "additional_info": "glycolysis, glycometabolic pathways,  cellular metabolism,  energy production,  glucose metabolism,  biochemistry,  cell biology,  metabolic pathways,  ATP production,  enzyme activity"
+  },
+  {
+    "qid": "478",
+    "additional_info": "Golli, T-cells, anergic phenotype, Ca2+,  immune response,  T cell differentiation,  cell signaling,  calcium signaling,  immunology,  molecular biology"
+  },
+  {
+    "qid": "491",
+    "additional_info": "HNF4A mutations, diabetes,  mutant carriers,  gene mutations,  genetic disorders,  endocrinology,  diabetes mellitus,  molecular genetics,  clinical genetics,  age of onset"
+  },
+  {
+    "qid": "501",
+    "additional_info": "headaches, cognitive impairment,  neurological disorders,  pain,  cognitive function,  correlation,  epidemiology,  neurology,  clinical studies,  pain management"
+  },
+  {
+    "qid": "502",
+    "additional_info": "healthcare delivery efficiency, crowded delivery centers, structural elements, logistical elements, interpersonal elements,  healthcare management,  operational efficiency,  patient flow,  healthcare systems,  quality improvement"
+  },
+  {
+    "qid": "507",
+    "additional_info": "helminths, macrophages, IL-4, Mycobacterium tuberculosis,  immune response,  immune suppression,  parasite infection,  tuberculosis infection,  immunology,  infectious disease"
+  },
+  {
+    "qid": "508",
+    "additional_info": "hematopoietic stem cell purification, purity rate,  stem cell isolation,  flow cytometry,  cell sorting,  cell separation,  immunology,  cell biology,  biotechnology,  stem cell research"
+  },
+  {
+    "qid": "513",
+    "additional_info": "cardiopulmonary fitness, mortality rate,  exercise,  physical activity,  cardiovascular health,  public health,  epidemiology,  exercise physiology,  health risks,  mortality"
+  },
+  {
+    "qid": "514",
+    "additional_info": "dietary calcium, secondary hyperparathyroidism, 25(OH)D,  vitamin D,  calcium metabolism,  bone health,  renal disease,  nutrition,  endocrinology,  clinical guidelines"
+  },
+  {
+    "qid": "516",
+    "additional_info": "CRP, chronic obstructive pulmonary disease (COPD), exacerbations,  inflammation,  risk reduction,  biomarkers,  respiratory disease,  pulmonary function,  clinical outcomes,  disease management"
+  },
+  {
+    "qid": "517",
+    "additional_info": "copeptin, diabetes risk,  biomarker,  diabetes prediction,  cardiovascular disease,  hormones,  clinical studies,  prognosis,  risk assessment,  diabetes prevention"
+  },
+  {
+    "qid": "521",
+    "additional_info": "high-sensitivity cardiac troponin T (HS-cTnT), diagnostic accuracy, symptom onset, acute myocardial injury (AMI),  cardiac biomarkers,  myocardial infarction,  diagnosis,  clinical chemistry,  laboratory medicine"
+  },
+  {
+    "qid": "525",
+    "additional_info": "histone demethylase, histone methylation, ligand-dependent transcription, nuclear receptors,  gene regulation,  epigenetics,  transcription factors,  molecular biology,  cell signaling,  gene expression"
+  },
+  {
+    "qid": "527",
+    "additional_info": "Sbds gene, murine model, osterix-expressing MPCs, oxidative stress,  gene knockout,  mouse model,  bone development,  cell biology,  molecular biology,  oxidative stress response"
+  },
+  {
+    "qid": "528",
+    "additional_info": "HTLV-1, HAM/TSP, IgG antibodies, Tax epitope,  viral infection,  autoimmune disease,  immunology,  antibodies,  viral proteins,  molecular biology"
+  },
+  {
+    "qid": "532",
+    "additional_info": "hyperfibrinogenemia, femoropopliteal bypass thrombosis,  blood clotting,  thrombosis,  vascular surgery,  clinical outcomes,  risk factors,  hemostasis,  coagulation,  vascular disease"
+  },
+  {
+    "qid": "533",
+    "additional_info": "hyperfibrinogenemia, femoropopliteal bypass thrombosis, blood clotting, thrombosis, vascular surgery, clinical outcomes, risk factors, hemostasis, coagulation, vascular disease"
+  },
+  {
+    "qid": "535",
+    "additional_info": "hypertension, type 1 diabetes,  diabetes complications,  cardiovascular disease,  risk factors,  epidemiology,  clinical studies,  diabetes management,  blood pressure"
+  },
+  {
+    "qid": "536",
+    "additional_info": "hypocretin neurons, panicprone state, rats,  neurotransmission,  anxiety,  neurobiology,  animal models,  brain function,  neuropharmacology,  stress response"
+  },
+  {
+    "qid": "539",
+    "additional_info": "hypoglycemia, dementia risk,  diabetes complications,  cognitive impairment,  neurodegeneration,  risk factors,  epidemiology,  neurology,  clinical studies,  diabetes management"
+  },
+  {
+    "qid": "540",
+    "additional_info": "hypothalamic glutamate neurotransmission, energy balance,  neurotransmission,  metabolism,  appetite regulation,  body weight,  neurobiology,  endocrinology,  neuroscience,  obesity"
+  },
+  {
+    "qid": "544",
+    "additional_info": "IFIT1, viral replication, mis-capped viral RNAs,  antiviral response,  innate immunity,  RNA binding proteins,  molecular biology,  virology,  immunology,  viral pathogenesis"
+  },
+  {
+    "qid": "549",
+    "additional_info": "IRG1, antiviral effects, neurotropic viruses,  innate immunity,  antiviral defense,  gene function,  immunology,  virology,  molecular biology,  central nervous system"
+  },
+  {
+    "qid": "551",
+    "additional_info": "ITAM phosphorylation, T cell receptor (TCR) signal,  immunological synapse,  T cell activation,  immune response,  cell signaling,  immunology,  molecular biology,  cell biology"
+  },
+  {
+    "qid": "552",
+    "additional_info": "IgA plasma cells, transglutaminase 2, duodenal mucosa, gluten-free diet,  celiac disease,  immune response,  autoimmunity,  immunology,  intestinal immunity,  gut health"
+  },
+  {
+    "qid": "554",
+    "additional_info": "immune complex, cell death, HMGB1,  neutrophils,  inflammation,  damage-associated molecular patterns (DAMPs),  cell signaling,  immunology,  autoimmunity,  molecular biology"
+  },
+  {
+    "qid": "560",
+    "additional_info": "immune responses, Th17 cells, iTregs,  inflammation,  immune regulation,  T cell differentiation,  cytokines,  immunology,  autoimmunity,  molecular biology"
+  },
+  {
+    "qid": "569",
+    "additional_info": "T cells, memory T cells,  adaptive immunity,  immune response,  lymphocytes,  immunology,  cell biology,  molecular biology,  immunological memory,  T cell subsets"
+  },
+  {
+    "qid": "575",
+    "additional_info": "Saccharomyces cerevisiae, whole chromosome aneuploidy, domesticated populations,  yeast genetics,  genome instability,  evolution,  molecular biology,  genetics,  population genetics"
+  },
+  {
+    "qid": "577",
+    "additional_info": "P. chabaudi, mice, parasite proliferation, inoculum size,  malaria,  parasite biology,  infection dynamics,  immunology,  animal models,  infection control"
+  },
+  {
+    "qid": "578",
+    "additional_info": "CSF1R, MOZ-TIF2, leukemogenesis, mouse models,  cancer,  hematopoietic system,  signal transduction,  molecular biology,  cancer genetics,  leukemia"
+  },
+  {
+    "qid": "587",
+    "additional_info": "Sox2 promoter, green fluorescent protein, cell proliferation markers, transgenic mice,  stem cells,  gene expression,  cell biology,  developmental biology,  molecular biology,  fluorescence microscopy"
+  },
+  {
+    "qid": "589",
+    "additional_info": "ADHD medications, cardiovascular events, young adults, middle-aged adults,  drug safety,  pharmacovigilance,  cardiovascular risk,  psychiatric medications,  clinical studies,  public health"
+  },
+  {
+    "qid": "593",
+    "additional_info": "heart failure, incidence, women, 1979,  cardiovascular disease,  epidemiology,  sex differences,  public health,  mortality rates,  cardiovascular health"
+  },
+  {
+    "qid": "597",
+    "additional_info": "cervical cancer, incidence rates,  cancer epidemiology,  public health,  cancer screening,  prevention,  oncology,  gynecology,  HPV vaccination,  cervical intraepithelial neoplasia (CIN)"
+  },
+  {
+    "qid": "598",
+    "additional_info": "cervical cancer, incidence rates, nationwide screening, cytology,  uterine cervical cancer,  cancer screening,  cancer epidemiology,  public health,  cancer prevention,  Pap smear"
+  },
+  {
+    "qid": "613",
+    "additional_info": "microtubule acetylation, LRRK2 Roc-COR domain mutation, locomotor deficits,  neurodegeneration,  Parkinson's disease,  protein function,  cell biology,  molecular biology,  therapeutic targets,  neurobiology"
+  },
+  {
+    "qid": "619",
+    "additional_info": "vessel density, fibrosis, chemotherapy efficacy,  cancer therapy,  tumor microenvironment,  angiogenesis,  drug resistance,  oncology,  cancer biology,  therapeutic resistance"
+  },
+  {
+    "qid": "623",
+    "additional_info": "serum vitamin D, multiple sclerosis (MS),  risk factors,  vitamin D deficiency,  autoimmune disease,  neurology,  epidemiology,  public health,  vitamin D supplementation,  immunomodulation"
+  },
+  {
+    "qid": "628",
+    "additional_info": "human T-cell lymphotropic virus type 1 (HTLV-1), African origin,  viral infection,  epidemiology,  global health,  public health,  viral transmission,  immunology,  tropical medicine"
+  },
+  {
+    "qid": "636",
+    "additional_info": "inositol lipid 3-phosphatase PTEN, PtdIns(3,4)P2, phosphatidylinositol 4-phosphate,  phosphatidylinositol signaling,  cell signaling,  enzyme activity,  biochemistry,  molecular biology,  phosphoinositides,  lipid metabolism"
+  },
+  {
+    "qid": "637",
+    "additional_info": "mental health professionals, physical health care professionals, homelessness,  healthcare integration,  interprofessional collaboration,  public health,  social work,  health services research,  homelessness prevention"
+  },
+  {
+    "qid": "641",
+    "additional_info": "insomnia, cognitive behavioral therapy (CBT),  sleep disorders,  treatment efficacy,  psychological therapies,  sleep medicine,  mental health,  clinical trials,  non-pharmacological interventions"
+  },
+  {
+    "qid": "644",
+    "additional_info": "insulin, severe kidney failure,  diabetes,  kidney disease,  risk factors,  diabetes complications,  endocrinology,  nephrology,  clinical studies,  chronic kidney disease"
+  },
+  {
+    "qid": "649",
+    "additional_info": "classroom-based collaborative learning, web-based collaborative learning, class performance,  educational technology,  pedagogy,  learning outcomes,  educational research,  online learning,  blended learning"
+  },
+  {
+    "qid": "659",
+    "additional_info": "ivermectin, lymphatic filariasis,  antiparasitic drug,  nematode infection,  drug treatment,  pharmacology,  parasitology,  tropical medicine,  public health"
+  },
+  {
+    "qid": "660",
+    "additional_info": "ivermectin, onchocerciasis,  antiparasitic drug,  nematode infection,  drug treatment,  pharmacology,  parasitology,  tropical medicine,  river blindness,  public health"
+  },
+  {
+    "qid": "674",
+    "additional_info": "LDL cholesterol, cardiovascular disease,  lipid metabolism,  atherosclerosis,  heart disease,  risk factors,  cholesterol,  cardiovascular risk,  clinical studies,  public health"
+  },
+  {
+    "qid": "684",
+    "additional_info": "clpC, Bacillus subtilis, sporulation, gene function, bacterial genetics, molecular biology, cell cycle, protein degradation, developmental biology"
+  },
+  {
+    "qid": "690",
+    "additional_info": "Gabonese children, Schimmelpenning-Feuerstein-Mims syndrome (SFM), plasma lactate,  rare disease,  clinical presentation,  pediatrics,  genetics,  metabolic disorders,  lactate levels"
+  },
+  {
+    "qid": "691",
+    "additional_info": "leukemia-associated Rho guanine nucleotide-exchange factor, RhoA, SRC activation,  cell signaling,  cancer,  leukemia,  molecular biology,  cell biology,  oncogenes,  signal transduction"
+  },
+  {
+    "qid": "692",
+    "additional_info": "leuko-increased blood, infectious complications, red blood cell transfusion,  blood transfusion,  blood safety,  infectious disease,  hematology,  transfusion medicine,  patient safety"
+  },
+  {
+    "qid": "693",
+    "additional_info": "leuko-reduced blood, infectious complications, red blood cell transfusion, blood transfusion, blood safety, infectious disease, hematology, transfusion medicine, patient safety"
+  },
+  {
+    "qid": "700",
+    "additional_info": "PIN1, Arabidopsis embryo, VPS9a,  protein localization,  plant biology,  cell biology,  molecular biology,  protein trafficking,  developmental biology"
+  },
+  {
+    "qid": "702",
+    "additional_info": "PIN1, Arabidopsis roots, VPS9a, protein localization, plant biology, cell biology, molecular biology, protein trafficking, developmental biology"
+  },
+  {
+    "qid": "715",
+    "additional_info": "miR7a, low expression, target genes, biological function, ovaries,  microRNA,  gene regulation,  reproductive biology,  molecular biology,  cell biology,  gene expression"
+  },
+  {
+    "qid": "716",
+    "additional_info": "miR7a, low expression, biological function, testis, microRNA, gene regulation, reproductive biology, molecular biology, cell biology, gene expression"
+  },
+  {
+    "qid": "718",
+    "additional_info": "nucleosome occupancy, methylation levels,  chromatin structure,  epigenetics,  gene regulation,  DNA methylation,  molecular biology,  genome organization,  cross-species comparison"
+  },
+  {
+    "qid": "721",
+    "additional_info": "Lupus-prone mice, curli-producing bacteria, autoantibody titers,  autoimmune disease,  bacterial infection,  immunology,  animal models,  disease pathogenesis,  molecular mechanisms"
+  },
+  {
+    "qid": "723",
+    "additional_info": "Ly49Q, neutrophil migration, inflammation sites, membrane rafts,  immune response,  cell migration,  cell signaling,  immunology,  molecular biology,  cell biology"
+  },
+  {
+    "qid": "727",
+    "additional_info": "Ly6C hi monocytes, Ly6C lo monocytes, inflammatory capacity,  monocyte subsets,  inflammation,  immune response,  immunology,  cell biology,  molecular biology,  macrophages"
+  },
+  {
+    "qid": "728",
+    "additional_info": "Ly6C hi monocytes, Ly6C lo monocytes, inflammatory capacity, monocyte subsets, inflammation, immune response, immunology, cell biology, molecular biology, macrophages"
+  },
+  {
+    "qid": "729",
+    "additional_info": "lymphadenopathy, knockin mouse, SHP-2 MAPK pathway,  lymph nodes,  immune system,  signal transduction,  mouse model,  molecular biology,  immunology,  gene knockout"
+  },
+  {
+    "qid": "742",
+    "additional_info": "macrolides, myocardial infarction,  cardiovascular disease,  drug efficacy,  clinical trials,  pharmacology,  heart disease,  prevention,  antibiotics,  cardioprotective effects"
+  },
+  {
+    "qid": "743",
+    "additional_info": "macrolides, myocardial infarction, cardiovascular disease, drug efficacy, clinical trials, pharmacology, heart disease, prevention, antibiotics, cardioprotective effects"
+  },
+  {
+    "qid": "744",
+    "additional_info": "macropinocytosis, amino acid supply, intracellular protein uptake,  cellular uptake,  nutrient transport,  cell biology,  molecular biology,  endocytosis,  protein metabolism"
+  },
+  {
+    "qid": "756",
+    "additional_info": "proteins, post-translational modification, lysine acetylation, human cells,  protein modification,  acetylation,  epigenetics,  molecular biology,  cell biology,  protein function"
+  },
+  {
+    "qid": "759",
+    "additional_info": "artemisinin-based combination therapy, nongametocytocidal drugs, malaria transmission,  mathematical models,  malaria control,  drug efficacy,  pharmacology,  parasitology,  public health"
+  },
+  {
+    "qid": "768",
+    "additional_info": "mercaptopurine, methylmercaptopurine, thiopurine methyltransferase (TPMT),  drug metabolism,  pharmacogenetics,  drug efficacy,  pharmacology,  biochemistry,  enzyme activity,  genetic polymorphism"
+  },
+  {
+    "qid": "770",
+    "additional_info": "metastatic colorectal cancer, fluoropyrimidines, oxaliplatin-based chemotherapy, elderly patients,  cancer therapy,  drug efficacy,  quality of life,  oncology,  geriatrics,  clinical trials"
+  },
+  {
+    "qid": "775",
+    "additional_info": "DNA polymerase I (polI), mice, ionizing radiation (IR),  DNA repair,  radiation sensitivity,  mouse model,  molecular biology,  genetics,  DNA damage,  radiobiology"
+  },
+  {
+    "qid": "781",
+    "additional_info": "Interferon-γ, receptor, experimental autoimmune myocarditis, mice,  immune response,  autoimmune disease,  immunology,  animal models,  cytokines,  disease pathogenesis"
+  },
+  {
+    "qid": "783",
+    "additional_info": "IFN-γ, receptor, EAM, α-MyHC/CFA, mice, immune response, autoimmune disease, immunology, animal models, cytokines, disease pathogenesis"
+  },
+  {
+    "qid": "784",
+    "additional_info": "microRNA, neural stem cell (NSC) differentiation, proliferation, dynamic homeostasis,  gene regulation,  stem cell biology,  neurogenesis,  molecular biology,  cell signaling,  brain development"
+  },
+  {
+    "qid": "785",
+    "additional_info": "microarray, culture-amplified mixtures, uncultured mixtures, serotypes,  genomics,  microbiology,  molecular biology,  data analysis,  experimental design,  bioinformatics"
+  },
+  {
+    "qid": "793",
+    "additional_info": "mitochondria, apoptosis,  programmed cell death,  cell signaling,  mitochondrial dysfunction,  cell biology,  molecular biology,  apoptosome,  caspases,  cell death pathways"
+  },
+  {
+    "qid": "800",
+    "additional_info": "epigenome modification, brain, human aging, neurogenesis,  epigenetics,  aging,  gene regulation,  neurobiology,  molecular biology,  gerontology,  brain development"
+  },
+  {
+    "qid": "805",
+    "additional_info": "monoclonal antibody, N-cadherin, metastasis inhibition,  cancer therapy,  targeted therapy,  immunotherapy,  oncology,  cell adhesion,  cancer metastasis,  drug development"
+  },
+  {
+    "qid": "808",
+    "additional_info": "termination events, Okazaki fragments, sequence specificity,  DNA replication,  DNA polymerase,  molecular biology,  genetics,  genome replication,  DNA synthesis"
+  },
+  {
+    "qid": "811",
+    "additional_info": "SVCT2, mutant mice, ascorbic acid, brain, adrenals,  vitamin C transport,  gene knockout,  mouse model,  molecular biology,  genetics,  ascorbic acid metabolism"
+  },
+  {
+    "qid": "814",
+    "additional_info": "GNB2 mutations, cancers, G-alpha subunits interaction, AKT pathway activation,  cancer genetics,  signal transduction,  molecular biology,  cell signaling,  oncogenes,  cancer biology"
+  },
+  {
+    "qid": "820",
+    "additional_info": "N-terminal cleavage, transcription start site identification,  proteomics,  transcription,  gene regulation,  molecular biology,  protein processing,  bioinformatics,  genome annotation"
+  },
+  {
+    "qid": "821",
+    "additional_info": "N-terminal cleavage, transcription start site identification, proteomics, transcription, gene regulation, molecular biology, protein processing, bioinformatics, genome annotation"
+  },
+  {
+    "qid": "823",
+    "additional_info": "N348I mutations, zidovudine (AZT) resistance,  HIV,  viral resistance,  drug resistance,  virology,  molecular biology,  viral evolution,  antiretroviral therapy,  mutation"
+  },
+  {
+    "qid": "830",
+    "additional_info": "NF2 (Merlin), YAP phosphorylation, cytoplasmic sequestration, LATS1/2 kinases, Drosophila,  tumor suppressor,  cell signaling,  molecular biology,  cell biology,  cancer,  gene regulation"
+  },
+  {
+    "qid": "831",
+    "additional_info": "NF2 (Merlin), YAP phosphorylation, cytoplasmic sequestration, Drosophila, tumor suppressor, cell signaling, molecular biology, cell biology, cancer, gene regulation"
+  },
+  {
+    "qid": "832",
+    "additional_info": "NFAT4, IP3R, Ca2+ mobilization,  cell signaling,  calcium signaling,  transcription factor,  immune response,  molecular biology,  cell biology,  gene regulation"
+  },
+  {
+    "qid": "834",
+    "additional_info": "NOX2-independent pathways, peroxynitrite, nitrogen intermediates,  oxidative stress,  reactive nitrogen species (RNS),  cell signaling,  molecular biology,  cell biology,  inflammation,  nitric oxide"
+  },
+  {
+    "qid": "837",
+    "additional_info": "NR5A2, endometrial tissues,  gene expression,  developmental biology,  endometrium,  reproductive biology,  molecular biology,  gene regulation,  transcription factor"
+  },
+  {
+    "qid": "839",
+    "additional_info": "nanoparticles, targeted cell types, aptamers, lipid nanoparticles,  drug delivery,  nanomedicine,  targeted therapy,  drug targeting,  molecular biology,  biomaterials"
+  },
+  {
+    "qid": "845",
+    "additional_info": "neutrophil extracellular traps (NETs), ANCA-stimulated neutrophils,  autoimmune disease,  inflammation,  immune response,  neutrophils,  molecular biology,  cell biology,  immunology,  vasculitis"
+  },
+  {
+    "qid": "847",
+    "additional_info": "tuberculosis drugs, necrotic portion, tuberculosis lesion,  drug penetration,  drug delivery,  antibiotics,  tuberculosis treatment,  pharmacokinetics,  pharmacology,  drug resistance"
+  },
+  {
+    "qid": "852",
+    "additional_info": "non-invasive ventilation, inadequate response, conventional treatment,  respiratory support,  critical care,  clinical guidelines,  patient management,  respiratory failure,  medical decision-making"
+  },
+  {
+    "qid": "859",
+    "additional_info": "RUNX1, normal expression, tumor-promoting effects,  gene function,  cancer,  molecular biology,  cancer genetics,  oncogene,  gene regulation,  hematopoietic system"
+  },
+  {
+    "qid": "870",
+    "additional_info": "obesity, life quality,  quality of life,  health outcomes,  obesity complications,  public health,  epidemiology,  health economics,  healthcare utilization,  social determinants of health"
+  },
+  {
+    "qid": "873",
+    "additional_info": "obesity, environmental factors, genetic factors,  risk factors,  epidemiology,  nutrition,  lifestyle,  public health,  obesity prevention,  obesity genetics"
+  },
+  {
+    "qid": "879",
+    "additional_info": "IncRNAs, ribosomes, functional peptides,  non-coding RNA,  gene regulation,  protein synthesis,  molecular biology,  translation,  ribosome occupancy,  gene expression"
+  },
+  {
+    "qid": "880",
+    "additional_info": "IncRNAs, ribosomes, 5'-UTRs,  non-coding RNA,  gene regulation,  protein synthesis,  molecular biology,  translation,  ribosome occupancy,  gene expression"
+  },
+  {
+    "qid": "882",
+    "additional_info": "omnivores, vegetarians, trimethylamine N-oxide (TMAO), dietary L-carnitine,  metabolism,  gut microbiota,  nutrition,  cardiovascular disease,  biochemistry,  clinical studies"
+  },
+  {
+    "qid": "887",
+    "additional_info": "cell survival, development, stress-resistant spores,  cell differentiation,  developmental biology,  molecular biology,  cell death,  apoptosis,  spore formation"
+  },
+  {
+    "qid": "903",
+    "additional_info": "PD-1, monocytes, IL-10 production,  immune checkpoint,  immune response,  immunology,  cell signaling,  molecular biology,  cancer immunotherapy,  immune regulation"
+  },
+  {
+    "qid": "904",
+    "additional_info": "PDPN, motility, stromal surfaces, C-type lectin receptor, actin cytoskeleton, dendritic cells,  cell migration,  cell adhesion,  immune response,  molecular biology,  cell biology"
+  },
+  {
+    "qid": "907",
+    "additional_info": "PGE2, intestinal tumor growth, tumor suppressor genes, DNA repair genes,  inflammation,  cancer,  gene expression,  molecular biology,  oncology,  cancer biology"
+  },
+  {
+    "qid": "911",
+    "additional_info": "PKG-la, pain hypersensitivity, PKG-la knockout mice,  nociception,  pain pathways,  mouse model,  molecular biology,  genetics,  pain mechanisms,  neurobiology"
+  },
+  {
+    "qid": "913",
+    "additional_info": "PPAR-RXRs, PPAR ligands,  nuclear receptors,  gene regulation,  transcription factors,  molecular biology,  cell signaling,  lipid metabolism,  gene expression"
+  },
+  {
+    "qid": "914",
+    "additional_info": "PPAR-RXRs, PPAR ligands, nuclear receptors, gene regulation, transcription factors, molecular biology, cell signaling, lipid metabolism, gene expression"
+  },
+  {
+    "qid": "921",
+    "additional_info": "physical activity, cognitive functioning,  exercise,  brain health,  cognitive enhancement,  neurobiology,  public health,  geriatrics,  cognitive psychology,  physical fitness"
+  },
+  {
+    "qid": "922",
+    "additional_info": "stable partnerships, HIV, AIDS progression,  social support,  health behaviors,  public health,  epidemiology,  HIV/AIDS,  social determinants of health,  viral infection"
+  },
+  {
+    "qid": "936",
+    "additional_info": "peroxynitrite, nitration, TCR/CD8,  oxidative stress,  reactive nitrogen species (RNS),  immune response,  T cells,  molecular biology,  immunology,  cell signaling"
+  },
+  {
+    "qid": "956",
+    "additional_info": "GLP-1R, intracellular effectors, cellular signaling profiles,  pleiotropic coupling,  receptor signaling,  molecular biology,  cell signaling,  diabetes,  incretin hormones"
+  },
+  {
+    "qid": "957",
+    "additional_info": "podocytes, motility, injury,  kidney disease,  cell migration,  cell biology,  molecular biology,  glomerular disease,  nephrology,  tissue repair"
+  },
+  {
+    "qid": "960",
+    "additional_info": "polymeal nutrition, cardiovascular mortality,  nutrition,  cardiovascular health,  diet,  public health,  clinical studies,  mortality rates,  nutritional interventions"
+  },
+  {
+    "qid": "967",
+    "additional_info": "Arp2/3 inhibitor CK-666, lamelliopodia formation,  cell motility,  actin cytoskeleton,  cell biology,  molecular biology,  cell migration,  drug effects,  cell structure"
+  },
+  {
+    "qid": "971",
+    "additional_info": "cervical cancer screening, HPV detection, cytology, cervical intraepithelial neoplasia grade 2 (CIN2),  cancer screening,  HPV testing,  Pap smear,  oncology,  gynecology,  cancer prevention"
+  },
+  {
+    "qid": "975",
+    "additional_info": "pro-inflammatory cytokines, secondary mediators,  inflammation,  immune response,  cytokines,  chemokines,  immunology,  cell signaling,  molecular biology"
+  },
+  {
+    "qid": "982",
+    "additional_info": "proteins, growth cone, ubiquitination, cell body,  protein degradation,  neuron development,  molecular biology,  cell biology,  neurobiology,  protein trafficking"
+  },
+  {
+    "qid": "985",
+    "additional_info": "pseudogene PTENP1, PTEN expression, miRNA decoy,  gene regulation,  non-coding RNA,  molecular biology,  cancer,  gene expression,  microRNA,  tumor suppressor"
+  },
+  {
+    "qid": "993",
+    "additional_info": "pyridostatin, G-quadruplex, telomeric region,  telomere,  DNA structure,  DNA stabilization,  molecular biology,  genetics,  cancer,  telomerase"
+  },
+  {
+    "qid": "1012",
+    "additional_info": "radioiodine treatment, non-toxic multinodular goitre, thyroid volume reduction,  endocrinology,  thyroid disease,  nuclear medicine,  radiotherapy,  goiter treatment,  thyroid function"
+  },
+  {
+    "qid": "1014",
+    "additional_info": "rapamycin, triacylglycerols, fruit flies,  drug effects,  lipid metabolism,  animal models,  molecular biology,  genetics,  metabolic pathways,  pharmacology"
+  },
+  {
+    "qid": "1019",
+    "additional_info": "phosphotransfer rates, fidelity, two-component systems,  signal transduction,  molecular biology,  cell signaling,  protein phosphorylation,  bacterial genetics,  enzyme kinetics"
+  },
+  {
+    "qid": "1020",
+    "additional_info": "interferon-induced genes, granule cell neurons, West Nile virus, survival,  viral infection,  immune response,  gene expression,  neurobiology,  virology,  molecular biology"
+  },
+  {
+    "qid": "1021",
+    "additional_info": "interferon-induced genes, granule cell neurons, West Nile virus, survival, viral infection, immune response, gene expression, neurobiology, virology, molecular biology"
+  },
+  {
+    "qid": "1024",
+    "additional_info": "recurrent mutations, CTCF anchor sites, oncogenes,  cancer genetics,  genome instability,  molecular biology,  cancer,  gene regulation,  chromatin,  epigenetics"
+  },
+  {
+    "qid": "1029",
+    "additional_info": "interleukin-2, regulatory T cells, autoimmune diseases, type 1 diabetes,  immune response,  immunology,  T cells,  autoimmunity,  molecular biology,  disease pathogenesis"
+  },
+  {
+    "qid": "1041",
+    "additional_info": "histone H2A, H2A.Z, gene activation, yeasts, +1 nucleosomes,  chromatin remodeling,  gene regulation,  molecular biology,  genetics,  histones,  epigenetics"
+  },
+  {
+    "qid": "1049",
+    "additional_info": "ribosomopathies, cell and tissue specific pathology,  rare diseases,  ribosome function,  molecular biology,  genetics,  clinical genetics,  disease pathogenesis,  cell biology"
+  },
+  {
+    "qid": "1062",
+    "additional_info": "S-nitrosylated GAPDH, histone deacetylases, transnitrosylation,  post-translational modification,  cell signaling,  molecular biology,  protein modification,  enzyme activity,  nitric oxide"
+  },
+  {
+    "qid": "1086",
+    "additional_info": "sildenafil, erectile function, SSRI antidepressants, sexual dysfunction,  pharmacology,  drug interactions,  clinical trials,  sexual health,  men's health,  psychiatric medications"
+  },
+  {
+    "qid": "1088",
+    "additional_info": "Bcl2 silencing, tumor maintenance, tumor progression,  apoptosis,  cancer,  gene expression,  molecular biology,  cancer biology,  oncogenes,  tumor suppressor"
+  },
+  {
+    "qid": "1089",
+    "additional_info": "Smc5/6, SUMO E3 ligase Mms21, ATP-dependent remodeling,  protein complexes,  protein modification,  molecular biology,  cell cycle,  DNA repair,  chromosome segregation"
+  },
+  {
+    "qid": "1099",
+    "additional_info": "statins, blood cholesterol,  lipid-lowering drugs,  cholesterol metabolism,  cardiovascular disease,  pharmacology,  clinical studies,  public health,  atherosclerosis prevention"
+  },
+  {
+    "qid": "1100",
+    "additional_info": "statins, blood cholesterol, lipid-lowering drugs, cholesterol metabolism, cardiovascular disease, pharmacology, clinical studies, public health, atherosclerosis prevention"
+  },
+  {
+    "qid": "1104",
+    "additional_info": "stroke, direct oral anticoagulants, warfarin, in-hospital mortality,  stroke treatment,  anticoagulation,  patient safety,  clinical trials,  thrombosis,  cardiovascular disease"
+  },
+  {
+    "qid": "1107",
+    "additional_info": "subcutaneous fat depots, browning processes, cold exposure,  brown adipose tissue,  thermogenesis,  energy expenditure,  adipose tissue,  metabolism,  cold acclimation,  body temperature regulation"
+  },
+  {
+    "qid": "1110",
+    "additional_info": "suboptimal nutrition, chronic disease,  nutrition,  public health,  risk factors,  disease prevention,  epidemiology,  nutritional deficiencies,  health outcomes"
+  },
+  {
+    "qid": "1121",
+    "additional_info": "synaptic activity, brain-derived neurotrophic factor (BDNF), postsynaptic dendrites,  neurotransmission,  neurotrophic factors,  neuroplasticity,  neurobiology,  molecular biology,  cell signaling"
+  },
+  {
+    "qid": "1130",
+    "additional_info": "T regulatory cells (Tregs), αvβ8, pathogenic T-cell responses, active inflammation,  immune regulation,  immunosuppression,  T cells,  inflammation,  autoimmunity,  immunology"
+  },
+  {
+    "qid": "1132",
+    "additional_info": "TCR/CD3 microdomains, immunological synapse, T cell activation,  immune response,  T cells,  cell signaling,  immunology,  molecular biology,  cell biology,  immunological synapse formation"
+  },
+  {
+    "qid": "1137",
+    "additional_info": "TNFAIP3, tumor suppressor, glioblastoma,  cancer,  gene function,  molecular biology,  cancer genetics,  oncology,  neurooncology,  tumor suppression"
+  },
+  {
+    "qid": "1140",
+    "additional_info": "α-tocopheryl acetate, prostate cancer prevention,  vitamin E,  antioxidants,  cancer prevention,  oncology,  clinical trials,  public health,  supplementation,  prostate cancer"
+  },
+  {
+    "qid": "1144",
+    "additional_info": "sugar-sweetened beverage tax, type II diabetes incidence, India,  public health policy,  health economics,  diabetes prevention,  taxation,  epidemiological studies,  behavioral economics"
+  },
+  {
+    "qid": "1146",
+    "additional_info": "teaching hospitals, non-teaching hospitals, healthcare quality,  healthcare delivery,  patient outcomes,  health services research,  clinical care,  hospital comparisons,  medical education"
+  },
+  {
+    "qid": "1150",
+    "additional_info": "tetraspanin-3, acute myelogenous leukemia (AML),  cancer,  molecular biology,  cancer genetics,  oncology,  hematopoietic system,  leukemia,  disease pathogenesis"
+  },
+  {
+    "qid": "1163",
+    "additional_info": "DdrB protein, Deinococcus radiodurans, alternative SSB,  DNA repair,  radiation resistance,  molecular biology,  genetics,  protein function,  bacterial genetics"
+  },
+  {
+    "qid": "1175",
+    "additional_info": "PPR MDA5, N-terminal CARD domains,  pattern recognition receptor (PRR),  innate immunity,  molecular biology,  immunology,  viral recognition,  protein domains,  antiviral response"
+  },
+  {
+    "qid": "1179",
+    "additional_info": "PRR MDA5, central DExD/H RNA helicase domain, pattern recognition receptor (PRR), innate immunity, molecular biology, immunology, viral recognition, protein domains, antiviral response"
+  },
+  {
+    "qid": "1180",
+    "additional_info": "PRR MDA5, RNA virus infection sensor, pattern recognition receptor (PRR), innate immunity, molecular biology, immunology, viral recognition, protein domains, antiviral response"
+  },
+  {
+    "qid": "1185",
+    "additional_info": "US healthcare system, kidney transplants, national kidney paired donation program, cost savings,  organ transplantation,  health economics,  healthcare policy,  transplantation,  public health"
+  },
+  {
+    "qid": "1187",
+    "additional_info": "YAP1, TEAD complex, nucleus translocation, transcription factors, DNA-binding proteins, target gene transcription,  cell signaling,  molecular biology,  gene regulation,  cancer,  transcriptional regulation"
+  },
+  {
+    "qid": "1191",
+    "additional_info": "publicly available DNA data, data doubling time,  genomics,  big data,  bioinformatics,  data science,  research data,  open data,  scientific publishing"
+  },
+  {
+    "qid": "1194",
+    "additional_info": "TatAd complexes, arm density, structural rearrangements, Class1 TatAd complexes, charge zipper mechanism,  molecular biology,  protein structure,  protein complexes,  molecular mechanisms,  structural biology"
+  },
+  {
+    "qid": "1196",
+    "additional_info": "safe places to study, homelessness,  housing insecurity,  education,  social determinants of health,  public health,  social support,  intervention strategies,  educational access"
+  },
+  {
+    "qid": "1197",
+    "additional_info": "safe places to study, homelessness, housing insecurity, education, social determinants of health, public health, social support, intervention strategies, educational access"
+  },
+  {
+    "qid": "1199",
+    "additional_info": "colchicine, secondary prevention strategies, high-dose statins,  cardiovascular disease,  drug efficacy,  clinical trials,  pharmacology,  atherosclerosis,  prevention,  cardiovascular health"
+  },
+  {
+    "qid": "1200",
+    "additional_info": "ML-SA1 activator, hTRPML2, hTRPML1, binding orientation,  protein-ligand interaction,  molecular biology,  drug design,  pharmacology,  biochemistry,  molecular modeling"
+  },
+  {
+    "qid": "1202",
+    "additional_info": "granuloma center, immune cells, pro-inflammatory immune response,  inflammation,  immune response,  immunology,  cell signaling,  molecular biology,  tuberculosis,  granuloma formation"
+  },
+  {
+    "qid": "1204",
+    "additional_info": "H3K4me3, H3K79me2, quiescent hair follicle stem cells,  histone modifications,  epigenetics,  stem cells,  gene regulation,  molecular biology,  cell biology,  hair follicle development"
+  },
+  {
+    "qid": "1207",
+    "additional_info": "myosin-II isoforms, B isoform, A isoform, hematopoietic differentiation,  cell differentiation,  molecular biology,  cell biology,  hematopoiesis,  protein isoforms,  cytoskeleton"
+  },
+  {
+    "qid": "1213",
+    "additional_info": "monocytes, prolonged activation, deleterious effects, inflammatory diseases,  inflammation,  immune response,  immunology,  cell signaling,  molecular biology,  disease pathogenesis"
+  },
+  {
+    "qid": "1216",
+    "additional_info": "TMEM27, extracellular domain, cleavage, human beta cells,  protein processing,  molecular biology,  cell biology,  diabetes,  protein structure,  proteases"
+  },
+  {
+    "qid": "1221",
+    "additional_info": "genomic aberrations, metastases, primary tumor,  cancer genetics,  molecular biology,  cancer metastasis,  oncology,  genome sequencing,  cancer biology"
+  },
+  {
+    "qid": "1225",
+    "additional_info": "locus rs647161, colorectal carcinoma,  genetic association,  single nucleotide polymorphism (SNP),  cancer genetics,  oncology,  genome-wide association studies,  risk factors,  colorectal cancer"
+  },
+  {
+    "qid": "1226",
+    "additional_info": "TET protein, loss of function, myeloid cancers,  epigenetics,  DNA methylation,  cancer,  molecular biology,  cancer genetics,  oncology,  hematopoietic system"
+  },
+  {
+    "qid": "1232",
+    "additional_info": "FOXO3, minor G allele, Crohn's disease,  genetic variation,  disease severity,  genetics,  immunology,  inflammatory bowel disease,  molecular biology,  gene function"
+  },
+  {
+    "qid": "1241",
+    "additional_info": "myocardial lineage, cardiac progenitors, mesodermal origin,  heart development,  developmental biology,  molecular biology,  cell differentiation,  cardiogenesis,  embryonic development"
+  },
+  {
+    "qid": "1245",
+    "additional_info": "one-child policy, population growth,  demographics,  population control,  public health,  social policy,  family planning,  fertility rates,  China,  population studies"
+  },
+  {
+    "qid": "1259",
+    "additional_info": "breast cancer, tamoxifen metabolism, treatment outcome, genetic makeup,  pharmacogenomics,  personalized medicine,  drug metabolism,  oncology,  cancer therapy,  genetic testing"
+  },
+  {
+    "qid": "1262",
+    "additional_info": "Cas9-induced double strand breaks, human DNA, error-prone repair,  gene editing,  genome editing,  DNA repair,  molecular biology,  genetics,  CRISPR-Cas9,  off-target effects"
+  },
+  {
+    "qid": "1266",
+    "additional_info": "breast cancer risk, parous women, placental weight, premenopausal breast cancer,  risk factors,  epidemiology,  obstetrics,  oncology,  pregnancy,  breast cancer"
+  },
+  {
+    "qid": "1270",
+    "additional_info": "male prisoners, self-harm, female prisoners,  prison health,  mental health,  public health,  criminology,  forensic psychiatry,  risk assessment,  gender differences"
+  },
+  {
+    "qid": "1271",
+    "additional_info": "cardiac amyloidosis, late gadolinium enhancement (LGE), MRI,  severity,  transmurality,  cardiovascular disease,  cardiac imaging,  radiology,  diagnosis,  amyloidosis"
+  },
+  {
+    "qid": "1272",
+    "additional_info": "flash-evoked ERG b-wave, ON-bipolar cells,  electroretinography (ERG),  visual physiology,  retina,  neurobiology,  molecular biology,  cell signaling,  vision"
+  },
+  {
+    "qid": "1273",
+    "additional_info": "kinesin-8 protein Kip3, sliding activity, bipolar spindle assembly,  cell division,  mitosis,  molecular motor,  molecular biology,  cell biology,  microtubules,  cytoskeleton"
+  },
+  {
+    "qid": "1274",
+    "additional_info": "type VI secretion system (T6SS), inner tube, toxic effector proteins, Escherichia coli (E. coli),  bacterial toxins,  bacterial pathogenesis,  molecular biology,  microbiology,  cell biology,  protein secretion"
+  },
+  {
+    "qid": "1278",
+    "additional_info": "cancer patients, co-IR blockade, adverse autoimmune events,  immunotherapy,  immune checkpoint inhibitors,  cancer therapy,  immunology,  clinical trials,  side effects,  patient safety"
+  },
+  {
+    "qid": "1279",
+    "additional_info": "cancer patients, co-IR blockade, adverse autoimmune events, immunotherapy, immune checkpoint inhibitors, cancer therapy, immunology, clinical trials, side effects, patient safety"
+  },
+  {
+    "qid": "1280",
+    "additional_info": "ureABIEFGH gene cluster, urease maturation proteins, UreD/UreH, UreE, UreF, UreG,  bacterial genes,  molecular biology,  microbiology,  gene regulation,  enzyme activity"
+  },
+  {
+    "qid": "1281",
+    "additional_info": "ureABIEFGH gene cluster, nickel (II) ion,  gene regulation,  bacterial genetics,  molecular biology,  metal ion,  enzyme activity,  gene expression,  promoter"
+  },
+  {
+    "qid": "1282",
+    "additional_info": "dapsone, pyoderma gangrenosum, anecdotal evidence,  drug treatment,  case reports,  pharmacology,  dermatology,  clinical practice,  evidence-based medicine"
+  },
+  {
+    "qid": "1290",
+    "additional_info": "hip fractures, statin use,  bone health,  cardiovascular disease,  drug effects,  epidemiology,  clinical studies,  osteoporosis,  risk factors,  statin benefits"
+  },
+  {
+    "qid": "1292",
+    "additional_info": "HNF4A mutations, diabetes risks,  gene mutations,  genetic disorders,  endocrinology,  diabetes mellitus,  molecular genetics,  clinical genetics,  risk assessment"
+  },
+  {
+    "qid": "1298",
+    "additional_info": "thigh-length graduated compression stockings (GCS), deep vein thrombosis (DVT), acute stroke,  thrombosis prevention,  clinical trials,  patient safety,  vascular disease,  stroke rehabilitation"
+  },
+  {
+    "qid": "1303",
+    "additional_info": "tirasemtiv, fast-twitch muscle,  drug effects,  muscle function,  pharmacology,  clinical trials,  neurology,  muscle physiology,  drug development"
+  },
+  {
+    "qid": "1316",
+    "additional_info": "umbilical cord blood (UCB) T cells, memory-like phenotype, recipients,  cell therapy,  immunology,  transplantation,  T cells,  immune response,  cell differentiation"
+  },
+  {
+    "qid": "1319",
+    "additional_info": "transplanted human glial cells, differentiation, host animal,  cell transplantation,  cell therapy,  regenerative medicine,  neurobiology,  molecular biology,  cell biology"
+  },
+  {
+    "qid": "1320",
+    "additional_info": "transplanted human glial progenitor cells, neural network formation, host animals' neurons, cell transplantation, cell therapy, regenerative medicine, neurobiology, molecular biology, cell biology"
+  },
+  {
+    "qid": "1332",
+    "additional_info": "tumor necrosis factor alpha (TNF-α), interleukin-1 (IL-1), pro-inflammatory cytokines, IL-6, IL-10,  inflammation,  cytokines,  immunology,  cell signaling,  molecular biology"
+  },
+  {
+    "qid": "1335",
+    "additional_info": "UCB T cells, TCR diversity, transplantation,  cell therapy,  immunology,  transplantation,  T cells,  immune response,  cell differentiation"
+  },
+  {
+    "qid": "1336",
+    "additional_info": "UCB T cells, TCR diversity, transplantation, cell therapy, immunology, transplantation, T cells, immune response, cell differentiation"
+  },
+  {
+    "qid": "1337",
+    "additional_info": "ubiquitin ligase UBC13, K63-linked polyubiquitin, PCNA K164,  protein modification,  ubiquitination,  molecular biology,  cell cycle,  DNA repair,  cell signaling"
+  },
+  {
+    "qid": "1339",
+    "additional_info": "ultrasound guidance, traumatic procedures, needle insertion,  medical imaging,  interventional radiology,  patient safety,  clinical practice,  procedural complications,  ultrasound"
+  },
+  {
+    "qid": "1344",
+    "additional_info": "p53 pathway, molecular events, cancer resistance, shortened lifespan, senescent cells, organismal aging,  cancer,  gene regulation,  molecular biology,  cell senescence,  aging,  tumor suppression"
+  },
+  {
+    "qid": "1352",
+    "additional_info": "mosGCTL-1, upregulation, West Nile virus infection,  viral infection,  gene expression,  molecular biology,  virology,  immunology,  immune response,  viral pathogenesis"
+  },
+  {
+    "qid": "1359",
+    "additional_info": "varenicline monotherapy, combination nicotine replacement therapies, 12 weeks treatment, smoking cessation,  pharmacology,  clinical trials,  tobacco addiction,  drug efficacy,  public health"
+  },
+  {
+    "qid": "1362",
+    "additional_info": "venules, arterioles, lumen diameter,  microcirculation,  blood vessels,  anatomy,  physiology,  hemodynamics,  vascular biology,  blood flow"
+  },
+  {
+    "qid": "1363",
+    "additional_info": "venules, arterioles, smooth muscle layer,  microcirculation,  blood vessels,  anatomy,  physiology,  hemodynamics,  vascular biology,  blood flow"
+  },
+  {
+    "qid": "1368",
+    "additional_info": "vitamin D deficiency, term of delivery,  pregnancy,  obstetrics,  vitamin D,  risk factors,  preterm birth,  birth outcomes,  maternal health,  calcium metabolism"
+  },
+  {
+    "qid": "1370",
+    "additional_info": "vitamin D deficiency, birth weight,  pregnancy,  obstetrics,  vitamin D,  risk factors,  birth outcomes,  maternal health,  calcium metabolism"
+  },
+  {
+    "qid": "1379",
+    "additional_info": "birth weight, breast cancer risk, women,  risk factors,  epidemiology,  obstetrics,  oncology,  cancer development,  hormonal influences"
+  },
+  {
+    "qid": "1382",
+    "additional_info": "aPKCz, tumor enhancement, glutamine metabolism,  cancer,  cell signaling,  molecular biology,  cancer biology,  oncogenes,  metabolic pathways"
+  },
+  {
+    "qid": "1385",
+    "additional_info": "cSMAC formation, weak ligand signaling,  immunological synapse,  T cell activation,  cell signaling,  immunology,  molecular biology,  cell biology"
+  },
+  {
+    "qid": "1389",
+    "additional_info": "mTORC2, intracellular cysteine levels, xCT inhibition,  cell signaling,  molecular biology,  amino acid metabolism,  cancer,  metabolic pathways,  gene regulation"
+  },
+  {
+    "qid": "1395",
+    "additional_info": "p16INK4A, accumulation, abnormal wound response, microinvasive step, oral potentially malignant lesions (OPMLs),  cell cycle,  cancer,  molecular biology,  oncology,  wound healing,  cell senescence"
+  }
+]

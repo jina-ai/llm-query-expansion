@@ -1,0 +1,202 @@
+[
+    {
+        "qid": 1,
+        "additional_info": "Investigate the zoonotic origins, theories about animal hosts, and early reports from Wuhan. Include genetic sequencing, wet markets, and lab leak hypotheses."
+    },
+    {
+        "qid": 2,
+        "additional_info": "Explore effects of temperature, humidity, and seasonality on virus survival and transmission. Discuss scientific models and data from different climates."
+    },
+    {
+        "qid": 3,
+        "additional_info": "Look into immune response in SARS-CoV-2 patients, the role of antibodies, T-cell immunity, and whether prior SARS exposure provides cross-protection."
+    },
+    {
+        "qid": 4,
+        "additional_info": "Examine respiratory failure, cytokine storm, organ failure, and thrombotic complications as causes of death, as well as underlying comorbidities."
+    },
+    {
+        "qid": 5,
+        "additional_info": "Focus on antiviral drugs tested in animals, including remdesivir, favipiravir, monoclonal antibodies, and potential novel therapies."
+    },
+    {
+        "qid": 6,
+        "additional_info": "Discuss PCR, antigen, and antibody tests, their accuracy, ease of use, and limitations. Explore point-of-care devices and rapid testing innovations."
+    },
+    {
+        "qid": 7,
+        "additional_info": "Cover the types of serological tests, including ELISA, lateral flow assays, and their use in detecting past infection and assessing population immunity."
+    },
+    {
+        "qid": 8,
+        "additional_info": "Explore the impact of testing shortages on surveillance, underreporting of cases, and the spread of the virus in various regions."
+    },
+    {
+        "qid": 9,
+        "additional_info": "Discuss Canada’s case numbers, healthcare strain, response measures, lockdowns, and regional differences in infection rates and outcomes."
+    },
+    {
+        "qid": 10,
+        "additional_info": "Examine studies on social distancing, its role in reducing transmission, and its impact on case curves and healthcare capacity."
+    },
+    {
+        "qid": 11,
+        "additional_info": "Review protocols for triaging patients based on severity, oxygen saturation, comorbidities, and available healthcare resources."
+    },
+    {
+        "qid": 12,
+        "additional_info": "Discuss best practices for isolation, hygiene, and quarantine guidelines for COVID-19 patients, both in hospitals and home settings."
+    },
+    {
+        "qid": 13,
+        "additional_info": "Investigate droplet, aerosol, and surface transmission routes, as well as evidence from outbreak investigations and preventive measures."
+    },
+    {
+        "qid": 14,
+        "additional_info": "Review case studies of super spreaders, including viral load, environments, and behavior patterns contributing to rapid transmission."
+    },
+    {
+        "qid": 15,
+        "additional_info": "Examine environmental factors affecting virus survival on surfaces and the potential for transmission through fomites."
+    },
+    {
+        "qid": 16,
+        "additional_info": "Provide information on studies measuring SARS-CoV-2 survival on different materials, timeframes, and environmental conditions."
+    },
+    {
+        "qid": 17,
+        "additional_info": "Search for clinical trials related to vaccine development, antiviral therapies, monoclonal antibodies, and other treatment modalities."
+    },
+    {
+        "qid": 18,
+        "additional_info": "Review studies on the efficacy of various types of masks (N95, surgical, cloth) in preventing transmission of COVID-19."
+    },
+    {
+        "qid": 19,
+        "additional_info": "Discuss the alcohol concentration (at least 60%) needed in hand sanitizers to effectively kill SARS-CoV-2 and other guidelines for use."
+    },
+    {
+        "qid": 20,
+        "additional_info": "Analyze the impact of ACE inhibitors on the immune system, ACE2 receptors, and COVID-19 severity in patients using these medications."
+    },
+    {
+        "qid": 21,
+        "additional_info": "Examine mortality rates by age, gender, race, and pre-existing conditions. Review global trends and specific population vulnerabilities."
+    },
+    {
+        "qid": 22,
+        "additional_info": "Investigate how COVID-19 causes myocarditis, arrhythmias, and other cardiac complications, especially in severe cases or with comorbidities."
+    },
+    {
+        "qid": 23,
+        "additional_info": "Explore the relationship between hypertension and severe COVID-19 outcomes, including increased risk of thrombosis and cardiovascular events."
+    },
+    {
+        "qid": 24,
+        "additional_info": "Look into how diabetes affects COVID-19 severity and complications, including immune dysfunction and increased susceptibility to infections."
+    },
+    {
+        "qid": 25,
+        "additional_info": "Identify biomarkers (e.g., CRP, D-dimer, ferritin) associated with severe disease progression and poor outcomes in COVID-19 patients."
+    },
+    {
+        "qid": 26,
+        "additional_info": "List the early symptoms of COVID-19, including fever, cough, fatigue, and loss of smell, and how they differ from other respiratory infections."
+    },
+    {
+        "qid": 27,
+        "additional_info": "Examine asymptomatic cases and their role in transmission, viral load, and the potential for long-term effects despite the lack of symptoms."
+    },
+    {
+        "qid": 28,
+        "additional_info": "Review studies and trials on hydroxychloroquine, its potential mechanisms, and evidence for or against its effectiveness in treating COVID-19."
+    },
+    {
+        "qid": 29,
+        "additional_info": "Investigate SARS-CoV-2 protein interactions with human proteins and identify possible drug repurposing opportunities based on these interactions."
+    },
+    {
+        "qid": 30,
+        "additional_info": "Analyze clinical trial data on remdesivir's efficacy in treating COVID-19, including its impact on viral replication and patient recovery."
+    },
+    {
+        "qid": 31,
+        "additional_info": "Compare the symptoms, transmission dynamics, and severity of COVID-19 and seasonal flu. Highlight key differences in public health response."
+    },
+    {
+        "qid": 32,
+        "additional_info": "Explore the presence of SARS-CoV-2 variants, their mutations, and the impact on transmission, vaccine efficacy, and treatment response."
+    },
+    {
+        "qid": 33,
+        "additional_info": "Provide an overview of COVID-19 vaccine candidates in development, including mRNA, viral vector, and protein subunit vaccines, and trial progress."
+    },
+    {
+        "qid": 34,
+        "additional_info": "Discuss long-term complications like ‘long COVID,’ including persistent fatigue, cognitive issues, and organ damage observed in recovered patients."
+    },
+    {
+        "qid": 35,
+        "additional_info": "List available public datasets related to COVID-19, including case numbers, hospitalization rates, genetic sequencing, and clinical trials."
+    },
+    {
+        "qid": 36,
+        "additional_info": "Examine the spike protein structure of SARS-CoV-2, including its role in viral entry, binding to ACE2 receptors, and implications for vaccine development."
+    },
+    {
+        "qid": 37,
+        "additional_info": "Discuss the phylogenetic analysis of SARS-CoV-2 genomes, identifying distinct clades and their evolutionary relationship with other coronaviruses."
+    },
+    {
+        "qid": 38,
+        "additional_info": "Investigate the inflammatory response mechanisms, including cytokine storms, and how they contribute to severe COVID-19 pathology."
+    },
+    {
+        "qid": 39,
+        "additional_info": "Analyze the impact of cytokine storms in COVID-19 patients, focusing on the immune system's overreaction and its effects on organs and recovery."
+    },
+    {
+        "qid": 40,
+        "additional_info": "Review mutations in the SARS-CoV-2 genome, focusing on key variants and their potential effects on infectivity, immunity, and vaccine efficacy."
+    },
+    {
+        "qid": 41,
+        "additional_info": "Explore the disproportionate impact of COVID-19 on African-American populations, including healthcare access, comorbidities, and social determinants of health."
+    },
+    {
+        "qid": 42,
+        "additional_info": "Discuss the role of Vitamin D in immune function, its potential effect on COVID-19 severity, and studies linking deficiency to poor outcomes."
+    },
+    {
+        "qid": 43,
+        "additional_info": "Investigate the relationship between the pandemic and increased violence, including domestic abuse and violent crime, as well as societal stressors."
+    },
+    {
+        "qid": 44,
+        "additional_info": "Review studies on the effectiveness of masks in reducing transmission, including different types of masks and their role in public health strategies."
+    },
+    {
+        "qid": 45,
+        "additional_info": "Examine the mental health impact of the COVID-19 pandemic, including anxiety, depression, and PTSD, and the importance of mental health support."
+    },
+    {
+        "qid": 46,
+        "additional_info": "Explore clinical trials and studies on dexamethasone's effectiveness in reducing mortality and inflammation in severe COVID-19 cases."
+    },
+    {
+        "qid": 47,
+        "additional_info": "Discuss the health outcomes for children with COVID-19, focusing on severity, hospitalization rates, and the emergence of pediatric inflammatory syndrome."
+    },
+    {
+        "qid": 48,
+        "additional_info": "Weigh the benefits and risks of reopening schools during the pandemic, including the impact on learning, mental health, and community transmission."
+    },
+    {
+        "qid": 49,
+        "additional_info": "Explore immune responses in recovered COVID-19 patients, including antibody production, T-cell immunity, and whether immunity provides long-term protection."
+    },
+    {
+        "qid": 50,
+        "additional_info": "Discuss the development and effectiveness of mRNA vaccines for SARS-CoV-2, including their safety, efficacy, and deployment strategies."
+    }
+]

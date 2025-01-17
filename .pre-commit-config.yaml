@@ -1,0 +1,27 @@
+repos:
+  - repo: https://github.com/ambv/black
+    rev: 23.3.0
+    hooks:
+      - id: black
+        types: [python]
+        args:
+          - -S
+  - repo: https://github.com/pycqa/flake8
+    rev: 6.0.0
+    hooks:
+      - id: flake8
+        exclude: ^notebooks/
+        args:
+          - --ignore=E231,W503,E203
+          - --max-line-length=100
+  - repo: https://github.com/pycqa/isort
+    rev: 5.13.2
+    hooks:
+      - id: isort
+        args: [--profile, black]
+  - repo: https://github.com/macisamuele/language-formatters-pre-commit-hooks
+    rev: v2.11.0
+    hooks:
+      - id: pretty-format-yaml
+        exclude: ^test-data/.*$
+        args: [--autofix, --indent, '2', --offset, '2']

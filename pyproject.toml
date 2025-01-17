@@ -1,0 +1,32 @@
+equires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "llm_query_expansion"
+version = "0.1.0"
+authors = [
+    { name = "Jina AI", email = "research@jina.ai" }
+]
+description = "Query Expension for Better Query Embedding using LLMs"
+readme = "README.md"
+dependencies = [
+    "google-generativeai==0.8.3",
+    "mteb==1.29.9",
+    "sentence_transformers==3.3.1",
+    "torch==2.5.1",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pre-commit>=3.3.3",
+    "black==23.3.0",
+    "flake8==6.0.0",
+    "isort==5.13.2",
+    "language-formatters-pre-commit-hooks==2.11.0",
+]
+
+[tool.pre-commit]
+dependencies = ["pre-commit"]
+
+[tool.setuptools]
+packages = ["llm_query_expansion"]
