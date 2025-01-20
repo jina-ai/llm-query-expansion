@@ -1,6 +1,6 @@
 # Code is based on https://github.com/jina-ai/late-chunking/blob/main/chunked_pooling/wrappers.py
 
-import torch
+from mteb.encoder_interface import PromptType
 from sentence_transformers import SentenceTransformer
 from torch import nn
 from transformers import AutoModel
@@ -29,7 +29,6 @@ class JinaEmbeddingsV3Wrapper(nn.Module):
         self,
         sentences: str | list[str],
         *args,
-        task: str | None = None,
         **kwargs,
     ):
         return self._model.encode(sentences, *args, task=self.tasks[0], **kwargs)
@@ -43,24 +42,19 @@ class JinaEmbeddingsV3Wrapper(nn.Module):
         _sentences = [construct_document(sentence) for sentence in sentences]
         return self._model.encode(_sentences, *args, task=self.tasks[1], **kwargs)
 
-    def get_instructions(self):
-        return [self._model._task_instructions[x] for x in self.tasks]
-
-    def forward(self, *args, **kwargs):
-        task_id = self._model._adaptation_map[self.tasks[1]]
-        num_examples = kwargs['input_ids'].shape[0]
-        adapter_mask = torch.full(
-            (num_examples,), task_id, dtype=torch.int32, device=self._model.device
-        )
-        return self._model.forward(*args, adapter_mask=adapter_mask, **kwargs)
+    def encode(
+        self,
+        *args,
+        prompt_type: PromptType | None = None,
+        **kwargs,
+    ):
+        if prompt_type and prompt_type == PromptType.passage:
+            return self.encode_corpus(*args, **kwargs)
+        return self.encode_queries(*args, **kwargs)
 
     @property
     def device(self):
         return self._model.device
-
-    @staticmethod
-    def has_instructions():
-        return True
 
 
 MODEL_WRAPPERS: dict[str, any] = {
@@ -80,9 +74,17 @@ MODELS_WITHOUT_PROMPT_NAME_ARG: list[str] = [
 ]
 
 
-def remove_unsupported_kwargs(original_encode: callable):
+def remove_unsupported_kwargs(original_encode: callable) -> callable:
+    """
+    Remove unsupported kwargs from the encode function of the model.
+
+    :param original_encode: The original encode function of the model.
+    :return: A wrapper function that removes unsupported kwargs.
+    """
+
     def wrapper(self, *args, **kwargs):
         # Remove 'prompt_name' from kwargs if present
+        kwargs.pop('task_name', None)
         kwargs.pop('prompt_name', None)
         kwargs.pop('request_qid', None)
         return original_encode(self, *args, **kwargs)
@@ -90,16 +92,17 @@ def remove_unsupported_kwargs(original_encode: callable):
     return wrapper
 
 
-def load_model(model_name: str, **model_kwargs):
+def load_model(model_name: str, **model_kwargs) -> nn.Module:
+    """
+    Load a model from the given model name.
+
+    :param model_name: The name of the model to load.
+    :return: The loaded model.
+    """
     if model_name in MODEL_WRAPPERS:
         model = MODEL_WRAPPERS[model_name](model_name, **model_kwargs)
-        if hasattr(MODEL_WRAPPERS[model_name], 'has_instructions'):
-            has_instructions = MODEL_WRAPPERS[model_name].has_instructions()
-        else:
-            has_instructions = False
     else:
         model = AutoModel.from_pretrained(model_name, trust_remote_code=True)
-        has_instructions = False
 
     # encode functions of various models do not support all sentence transformers kwargs parameter
     if model_name in MODELS_WITHOUT_PROMPT_NAME_ARG:
@@ -112,4 +115,4 @@ def load_model(model_name: str, **model_kwargs):
                     remove_unsupported_kwargs(getattr(model, func_name)),
                 )
 
-    return model, has_instructions
+    return model

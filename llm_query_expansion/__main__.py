@@ -46,6 +46,20 @@ def get_args() -> argparse.Namespace:
         required=True,
         help="Path to store the expanded queries.",
     )
+    expand_parser.add_argument(
+        "--batch-size",
+        type=int,
+        required=False,
+        default=25,
+        help="Batch size for generating query expansions.",
+    )
+    expand_parser.add_argument(
+        "--prompt-template",
+        type=str,
+        required=False,
+        default='general',
+        help="The template for the prompt to generate query expansions.",
+    )
 
     # Sub-command: evaluate
     evaluate_parser = subparsers.add_parser(
@@ -73,6 +87,13 @@ def get_args() -> argparse.Namespace:
         required=True,
         help="Name of the model to be used for evaluation.",
     )
+    evaluate_parser.add_argument(
+        '--output-folder',
+        type=str,
+        required=False,
+        default='results',
+        help="Folder to store the evaluation results.",
+    )
 
     return parser.parse_args()
 
@@ -87,23 +108,37 @@ def load_expansions_from_file(file_path: str) -> dict[str, str]:
 
     with open(file_path, 'r') as f:
         expansions = json.load(f)
-    return {str(query['qid']): query['additional_info'] for query in expansions}
+    if isinstance(expansions, dict):
+        return expansions
+    elif isinstance(expansions, list):
+        return {str(query['qid']): query['additional_info'] for query in expansions}
 
 
 def main() -> None:
     args = get_args()
 
     if args.command == "expand":
-        expansions = generate_expansions(args.task, args.expansion_size)
+        expansions = generate_expansions(
+            args.task,
+            args.expansion_size,
+            batch_size=args.batch_size,
+            prompt_template=args.prompt_template or 'general',
+        )
         with open(args.output_file, 'w') as f:
-            json.dump(expansions, f)
+            json.dump(expansions, f, indent=2)
     elif args.command == "evaluate":
         expansions = (
             load_expansions_from_file(args.expansions_file)
             if args.expansions_file
             else None
         )
-        evaluate_model(args.task, args.model_name, expansions)
+        if expansions:
+            print("Loaded", len(expansions), "query expansions")
+        else:
+            print("No query expansions loaded")
+        evaluate_model(
+            args.task, args.model_name, expansions, output_folder=args.output_folder
+        )
     else:
         raise ValueError(f"Invalid command: {args.command}")
 
