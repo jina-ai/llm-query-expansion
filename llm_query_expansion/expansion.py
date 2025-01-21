@@ -19,6 +19,16 @@ Return: list[Expansion]
 
 """  # noqa E501
 
+FIQA_PROMPT_TEMPLATE = """
+Please provide additional search keywords and phrases for each key aspect of the following question/statement. These keywords and phrases should make it easier to find relevant opinions, discussions, or statements related to the query field (about {size} words per query):
+{query}
+
+Please respond in the following JSON schema:
+Expansion = {"qid": str, "additional_info": str}
+Return: list[Expansion]
+
+"""  # noqa E501
+
 PROMPT_TEMPLATE = """
 Please provide additional search keywords and phrases for each of the key aspects of the following queries that make it easier to find relevant documents (about {size} words per query):
 {query}
@@ -29,7 +39,11 @@ Return: list[Expansion]
 
 """  # noqa E501
 
-PROMPT_TEMPLATES = {'general': PROMPT_TEMPLATE, 'SciFact': SCIFACT_PROMPT_TEMPLATE}
+PROMPT_TEMPLATES = {
+    'general': PROMPT_TEMPLATE,
+    'SciFact': SCIFACT_PROMPT_TEMPLATE,
+    'FiQA': FIQA_PROMPT_TEMPLATE,
+}
 
 
 class QExpansion(typing.TypedDict):
