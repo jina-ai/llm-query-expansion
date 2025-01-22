@@ -20,7 +20,7 @@ Return: list[Expansion]
 """  # noqa E501
 
 FIQA_PROMPT_TEMPLATE = """
-Please provide additional search keywords and phrases for each key aspect of the following question/statement. These keywords and phrases should make it easier to find relevant opinions, discussions, or statements related to the query field (about {size} words per query):
+Please provide additional search keywords and phrases for each key aspect of the following question/statement. These keywords should broaden the scope to include related opinions, discussions, and expert advice while ensuring relevance to the query. Aim to capture nuances, legal interpretations, practical solutions, and diverse perspectives. Keep each set concise yet comprehensive and include terms commonly used in relevant discussions or professional advice. Ensure the keywords facilitate locating documents or forums similar to the examples provided. (about {size} words per query):
 {query}
 
 Please respond in the following JSON schema:
@@ -40,9 +40,9 @@ Return: list[Expansion]
 """  # noqa E501
 
 PROMPT_TEMPLATES = {
-    'general': PROMPT_TEMPLATE,
-    'SciFact': SCIFACT_PROMPT_TEMPLATE,
-    'FiQA': FIQA_PROMPT_TEMPLATE,
+    "general": PROMPT_TEMPLATE,
+    "SciFact": SCIFACT_PROMPT_TEMPLATE,
+    "FiQA": FIQA_PROMPT_TEMPLATE,
 }
 
 
@@ -61,14 +61,14 @@ def get_prompt(queries: str, size: int, template: str) -> str:
     :return: A prompt to provide additional search keywords and phrases for the queries.
     """
 
-    prompt = PROMPT_TEMPLATE.replace("{size}", str(size)).replace(
+    prompt = template.replace("{size}", str(size)).replace(
         "{query}", json.dumps(queries)
     )
     return prompt
 
 
 def generate_expansions(
-    task_name: str, size: int, batch_size: int = 50, prompt_template: str = 'general'
+    task_name: str, size: int, batch_size: int = 50, prompt_template: str = "general"
 ) -> list[dict[str, str]]:
     """
     Generate query expansions using the GEMINI API.
@@ -82,7 +82,7 @@ def generate_expansions(
 
     task = getattr(tasks, task_name, None)()
     task.load_data()
-    queries = list(task.queries['test'].items())
+    queries = list(task.queries["test"].items())
 
     genai.configure(
         api_key=getenv("GEMINI_API_KEY"),
@@ -96,7 +96,7 @@ def generate_expansions(
         total=len(queries) // batch_size,
     ):
         batch_queries = [
-            {'qid': x[0], 'query': x[1]} for x in queries[batch : batch + batch_size]
+            {"qid": x[0], "query": x[1]} for x in queries[batch : batch + batch_size]
         ]
         for i in range(MAX_RETRIES):
             prompt = get_prompt(
@@ -110,10 +110,10 @@ def generate_expansions(
 
                 expanded_queries = json.loads(model_response)
                 for query in expanded_queries:
-                    expansions[query['qid']] = query['additional_info']
+                    expansions[query["qid"]] = query["additional_info"]
             except Exception as e:
                 print(f"Error generating expansions: {e}")
                 shuffle(batch_queries)
                 continue
             break
-    return [{'qid': k, 'additional_info': v} for (k, v) in expansions.items()]
+    return [{"qid": k, "additional_info": v} for (k, v) in expansions.items()]
