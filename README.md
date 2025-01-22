@@ -131,7 +131,7 @@ To achieve this, we constructed refined task-specific prompts, e.g., for SciFact
 | Model     | No Expansion | Gemini-F1.5 (100 words) | Gemini-F1.5 (150 words) | Gemini-F1.5 (250 words) |
 |-----------|--------------|-------------------------|-------------------------|-------------------------|
 | Jina V3   | 72.74        | **75.85 (+2.46)**       | 75.07 (+0.91)           | 75.13 (+0.80)           |
-| MiniLM    | 64.51        | **69.12 (+0.40)*        | 68.10 (+1.83)           | 67.83 (-0.67)           |
+| MiniLM    | 64.51        | **69.12 (+0.40)**       | 68.10 (+1.83)           | 67.83 (-0.67)           |
 
 **FiQA - Task-Specific Prompt for Expansion**
 | Model     | No Expansion | Gemini-F1.5 (100 words) | Gemini-F1.5 (150 words) | Gemini-F1.5 (250 words) |
