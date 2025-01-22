@@ -99,10 +99,10 @@ For evaluating how well the method works, we apply our approach to some of the B
 | MiniLM    | 16.90        | **25.31**               | 23.52                   | 23.23                   |
 
 **Average Improvement**
-| <p>Model</p>     | <p>Gemini-F1.5 (100 words)<br/>(Mean/Median)</p> | <p>Gemini-F1.5 (150 words)<br/>(Mean/Median)</p> | <p>Gemini-F1.5 (250 words)<br/>(Mean/Median)</p> |
+| Model     | Gemini-F1.5 (100 words) | Gemini-F1.5 (150 words) | Gemini-F1.5 (250 words) |
 |-----------|-------------------------|-------------------------|-------------------------|
-| Jina V3   | +1.02/+0.65             | +0.75/+0.91             | **+1.48/+1.59**         |
-| MiniLM    | **+6.51/+4.21**         | +5.84/+2.17             | +5.88/+3.99             |
+| Jina V3   | +1.02                   | +0.75                   | **+1.48**               |
+| MiniLM    | **+6.51**               | +5.84                   | +5.88                   |
 
 
 The results show that in general, LLM-based query expansion improves the retrieval results.
