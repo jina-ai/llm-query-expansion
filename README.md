@@ -68,31 +68,31 @@ If JSON responses are invalid, we shuffle the queries, reconstruct the prompt, a
 
 For evaluating how well the method works, we apply our approach to some of the BeIR datasets that have a low number of queries.
 
-**SciFact**
+**SciFact (Fact Checking Task)**
 | Model     | No Expansion | Gemini-F1.5 (100 words) | Gemini-F1.5 (150 words) | Gemini-F1.5 (250 words) |
 |-----------|--------------|-------------------------|-------------------------|-------------------------|
 | Jina V3   | 72.74        | 73.39                   | 74.16                   | **74.33**               |
 | MiniLM    | 64.51        | **68.72**               | 66.27                   | 68.50                   |
 
-**TRECCOVID**
+**TRECCOVID (Medical Retrieval Task)**
 | Model     | No Expansion | Gemini-F1.5 (100 words) | Gemini-F1.5 (150 words) | Gemini-F1.5 (250 words) |
 |-----------|--------------|-------------------------|-------------------------|-------------------------|
 | Jina V3   | 77.55        | 76.74                   | 77.12                   | **79.28**               |
 | MiniLM    | 47.25        | 67.90                   | **70.18**               | 69.60                   |
 
-**FiQA**
+**FiQA (Financial Opition Retrieval)**
 | Model     | No Expansion | Gemini-F1.5 (100 words) | Gemini-F1.5 (150 words) | Gemini-F1.5 (250 words) |
 |-----------|--------------|-------------------------|-------------------------|-------------------------|
 | Jina V3   | 47.34        | **47.76**               | 46.03                   | 47.34                   |
 | MiniLM    | **36.87**    | 33.96                   | 32.60                   | 31.84                   |
 
-**NFCorpus**
+**NFCorpus (Medical Information Retrieval)**
 | Model     | No Expansion | Gemini-F1.5 (100 words) | Gemini-F1.5 (150 words) | Gemini-F1.5 (250 words) |
 |-----------|--------------|-------------------------|-------------------------|-------------------------|
 | Jina V3   | 36.46        | **40.62**               | 39.63                   | 39.20                   |
 | MiniLM    | 31.59        | **33.76**               | 33.76                   | 33.35                   |
 
-**Touche2020**
+**Touche2020 (Argument Retrieval Task)**
 | Model     | No Expansion | Gemini-F1.5 (100 words) | Gemini-F1.5 (150 words) | Gemini-F1.5 (250 words) |
 |-----------|--------------|-------------------------|-------------------------|-------------------------|
 | Jina V3   | 26.24        | 26.91                   | 27.15                   | **27.54**               |
