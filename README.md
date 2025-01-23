@@ -9,7 +9,7 @@ This repository contains code for experimenting with LLM-based query expansion.
 <em>Figure 1: LLM-Based Query Expansion</em>
 </p>
 
-## What is LLL-Based Query Expansion?
+## What is LLM-Based Query Expansion?
 
 *Query Expansion* is a technique that automatically expands or reformulates queries to improve information retrieval (IR) systems, i.e., it makes it easier for your search system to find relevant documents.
 
