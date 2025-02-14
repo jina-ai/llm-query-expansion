@@ -69,37 +69,37 @@ If JSON responses are invalid, we shuffle the queries, reconstruct the prompt, a
 For evaluating how well the method works, we apply our approach to some of the BeIR datasets that have a low number of queries.
 
 **SciFact (Fact Checking Task)**
-| Model     | No Expansion | Gemini-F1.5 (100 words) | Gemini-F1.5 (150 words) | Gemini-F1.5 (250 words) |
+| Model     | No Expansion | Gemini-F2 (100 words) | Gemini-F2 (150 words) | Gemini-F2 (250 words) |
 |-----------|--------------|-------------------------|-------------------------|-------------------------|
 | Jina V3   | 72.74        | 73.39                   | 74.16                   | **74.33**               |
 | MiniLM    | 64.51        | **68.72**               | 66.27                   | 68.50                   |
 
 **TRECCOVID (Medical Retrieval Task)**
-| Model     | No Expansion | Gemini-F1.5 (100 words) | Gemini-F1.5 (150 words) | Gemini-F1.5 (250 words) |
+| Model     | No Expansion | Gemini-F2 (100 words) | Gemini-F2 (150 words) | Gemini-F2 (250 words) |
 |-----------|--------------|-------------------------|-------------------------|-------------------------|
 | Jina V3   | 77.55        | 76.74                   | 77.12                   | **79.28**               |
 | MiniLM    | 47.25        | 67.90                   | **70.18**               | 69.60                   |
 
 **FiQA (Financial Opition Retrieval)**
-| Model     | No Expansion | Gemini-F1.5 (100 words) | Gemini-F1.5 (150 words) | Gemini-F1.5 (250 words) |
+| Model     | No Expansion | Gemini-F2 (100 words) | Gemini-F2 (150 words) | Gemini-F2 (250 words) |
 |-----------|--------------|-------------------------|-------------------------|-------------------------|
 | Jina V3   | 47.34        | **47.76**               | 46.03                   | 47.34                   |
 | MiniLM    | **36.87**    | 33.96                   | 32.60                   | 31.84                   |
 
 **NFCorpus (Medical Information Retrieval)**
-| Model     | No Expansion | Gemini-F1.5 (100 words) | Gemini-F1.5 (150 words) | Gemini-F1.5 (250 words) |
+| Model     | No Expansion | Gemini-F2 (100 words) | Gemini-F2 (150 words) | Gemini-F2 (250 words) |
 |-----------|--------------|-------------------------|-------------------------|-------------------------|
 | Jina V3   | 36.46        | **40.62**               | 39.63                   | 39.20                   |
 | MiniLM    | 31.59        | **33.76**               | 33.76                   | 33.35                   |
 
 **Touche2020 (Argument Retrieval Task)**
-| Model     | No Expansion | Gemini-F1.5 (100 words) | Gemini-F1.5 (150 words) | Gemini-F1.5 (250 words) |
+| Model     | No Expansion | Gemini-F2 (100 words) | Gemini-F2 (150 words) | Gemini-F2 (250 words) |
 |-----------|--------------|-------------------------|-------------------------|-------------------------|
 | Jina V3   | 26.24        | 26.91                   | 27.15                   | **27.54**               |
 | MiniLM    | 16.90        | **25.31**               | 23.52                   | 23.23                   |
 
 **Average Improvement**
-| Model     | Gemini-F1.5 (100 words) | Gemini-F1.5 (150 words) | Gemini-F1.5 (250 words) |
+| Model     | Gemini-F2 (100 words) | Gemini-F2 (150 words) | Gemini-F2 (250 words) |
 |-----------|-------------------------|-------------------------|-------------------------|
 | Jina V3   | +1.02                   | +0.75                   | **+1.48**               |
 | MiniLM    | **+6.51**               | +5.84                   | +5.88                   |
@@ -128,13 +128,13 @@ To achieve this, we constructed refined task-specific prompts, e.g., for SciFact
 </p>
 
 **SciFact - Task-Specific Prompt for Expansion**
-| Model     | No Expansion | Gemini-F1.5 (100 words) | Gemini-F1.5 (150 words) | Gemini-F1.5 (250 words) |
+| Model     | No Expansion | Gemini-F2 (100 words) | Gemini-F2 (150 words) | Gemini-F2 (250 words) |
 |-----------|--------------|-------------------------|-------------------------|-------------------------|
 | Jina V3   | 72.74        | **75.85 (+2.46)**       | 75.07 (+0.91)           | 75.13 (+0.80)           |
 | MiniLM    | 64.51        | **69.12 (+0.40)**       | 68.10 (+1.83)           | 67.83 (-0.67)           |
 
 **FiQA - Task-Specific Prompt for Expansion**
-| Model     | No Expansion | Gemini-F1.5 (100 words) | Gemini-F1.5 (150 words) | Gemini-F1.5 (250 words) |
+| Model     | No Expansion | Gemini-F2 (100 words) | Gemini-F2 (150 words) | Gemini-F2 (250 words) |
 |-----------|--------------|-------------------------|-------------------------|-------------------------|
 | Jina V3   | 47.34        | 47.77 (+0.01)           | **48.20 (+1.99)**       | 47.75 (+0.41)           |
 | MiniLM    | **36.87**    | 34.71 (+0.75)           | 34.68 (+2.08)           | 34.50 (+2.66)           |
