@@ -1,5 +1,7 @@
 # LLM-Based Query Expansions for Text Embedding Models
 
+[**Blog post**](https://jina.ai/news/query-expansion-with-llms-searching-better-by-saying-more/)
+
 This repository contains code for experimenting with LLM-based query expansion.
 
 <p>
